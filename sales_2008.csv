@@ -1,0 +1,1209 @@
+Units,Dollars,Comic-book Title,Issue,Price,Publisher,Est. units
+1,2,Hulk,1,$2.99,Marvel,133,895
+2,1,Amazing Spider-Man,546,$3.99,Marvel,127,856
+3,3,Captain America,34,$2.99,Marvel,127,524
+5,5,Astonishing X-Men,24,$2.99,Marvel,107,545
+6,6,Uncanny X-Men,494,$2.99,Marvel,105,435
+7,7,Ultimates 3,2,$2.99,Marvel,104,985
+8,8,X-Men,207,$2.99,Marvel,104,709
+9,9,Amazing Spider-Man,547,$2.99,Marvel,101,132
+10,10,Amazing Spider-Man,548,$2.99,Marvel,97,881
+12,12,Mighty Avengers,7,$2.99,Marvel,92,665
+13,4,New Avengers Annual,2,$3.99,Marvel,89,572
+15,14,Mighty Avengers,8,$2.99,Marvel,84,391
+16,15,New X-Men,46,$2.99,Marvel,82,592
+17,16,X-Factor,27,$2.99,Marvel,81,285
+18,17,Incredible Hercules,113,$2.99,Marvel,73,475
+26,26,Wolverine,61,$2.99,Marvel,60,808
+27,27,Marvel Zombies 2,4,$2.99,Marvel,60,628
+28,28,Ultimate Spider-Man,118,$2.99,Marvel,58,753
+29,30,Ultimate Human,1,$2.99,Marvel,57,439
+31,33,Avengers Initiative,9,$2.99,Marvel,55,225
+34,36,Wolverine Origins,21,$2.99,Marvel,51,877
+36,39,Ultimate X-Men,90,$2.99,Marvel,49,594
+37,40,Fantastic Four,553,$2.99,Marvel,48,294
+38,42,Ultimate Iron Man II,2,$2.99,Marvel,46,211
+42,45,Ultimate Fantastic Four,50,$2.99,Marvel,44,108
+43,46,New Exiles,1,$2.99,Marvel,43,818
+44,47,Young Avengers Presents,1,$2.99,Marvel,43,679
+45,48,Thunderbolts,118,$2.99,Marvel,43,610
+47,31,Captain America Chosen,6,$3.99,Marvel,42,939
+49,52,Daredevil,104,$2.99,Marvel,42,739
+51,54,World War Hulk Aftersmash Warbound,2,$2.99,Marvel,39,757
+52,55,Onslaught Reborn,5,$2.99,Marvel,39,051
+53,38,Iron Man,25,$3.99,Marvel,38,041
+56,60,Punisher War Journal,15,$2.99,Marvel,35,786
+57,61,Twelve,1,$2.99,Marvel,35,627
+58,62,What If Spider-Man Vs Wolverine,0,$2.99,Marvel,35,253
+61,64,Moon Knight,14,$2.99,Marvel,34,541
+62,67,World War Hulk Aftersmash Damage Control,1,$2.99,Marvel,33,559
+63,68,X-Men Emperor Vulcan,5,$2.99,Marvel,33,524
+65,71,Immortal Iron Fist,12,$2.99,Marvel,32,597
+67,50,Spider-Man With Great Power,1,$3.99,Marvel,32,175
+68,74,Punisher,54,$2.99,Marvel,31,628
+72,80,Annihilation Conquest,3,$2.99,Marvel,30,065
+75,83,Nova,10,$2.99,Marvel,29,373
+76,85,New Warriors,8,$2.99,Marvel,28,903
+78,87,Ghost Rider,19,$2.99,Marvel,28,543
+81,89,Anita Blake Vampire Hunter Guilty Pleasures,7,$2.99,Marvel,27,851
+82,90,House of M Avengers,4,$2.99,Marvel,27,803
+83,91,Silver Surfer In Thy Name,3,$2.99,Marvel,27,609
+88,69,Spider Man Swing Shift Directors Cut One Shot,0,$3.99,Marvel,25,029
+92,97,Ms. Marvel,23,$2.99,Marvel,24,240
+94,73,Exiles Days of Then & Now,0,$3.99,Marvel,23,977
+95,99,Cable Deadpool,49,$2.99,Marvel,23,403
+97,76,She-Hulk 2,25,$3.99,Marvel,23,265
+101,79,Ultimate Secrets,0,$3.99,Marvel,22,538
+107,108,Order,7,$2.99,Marvel,21,521
+108,109,Penance Relentless,4,$2.99,Marvel,21,127
+117,101,Marvel Comics Presents,5,$3.99,Marvel,17,412
+126,128,Amazing Spider-Girl,16,$2.99,Marvel,16,409
+130,132,X-Men First Class Vol. 2,8,$2.99,Marvel,15,973
+150,161,Ultimates 3,1,$2.99,Marvel,12,265
+169,179,Avengers Classic,8,$2.99,Marvel,10,508
+170,180,Howard The Duck,4,$2.99,Marvel,10,432
+172,182,Omega Unknown,4,$2.99,Marvel,10,155
+175,154,Zombie Simon Garth,3,$3.99,Marvel,10,003
+177,187,X-Factor,26,$2.99,Marvel,9,512
+180,189,Marvel Spotlight Ultimates 3,0,$2.99,Marvel,9,346
+196,207,Uncanny X-Men,493,$2.99,Marvel,7,056
+198,211,X-Men,205,$2.99,Marvel,6,939
+201,215,Hedge Knight 2 Sworn Sword,4,$2.99,Marvel,6,807
+214,181,Civil War Chronicles,7,$4.99,Marvel,6,122
+216,223,Marvel Adventures Spider-Man,35,$2.99,Marvel,6,060
+224,229,Marvel Adventures Avengers,20,$2.
+233,240,Marvel Illustrated Iliad,2,$2.99,Marvel,5244
+237,247,Magician Apprentice,12,$2.99,Marvel,4849
+241,250,Marvel Adventures Hulk,7,$2.99,Marvel,4649
+243,222,Amazing Spider-Man 545,3,$3.99,Marvel,4600
+245,254,Marvel Adventures Iron Man,9,$2.99,Marvel,4448
+246,255,Iron Man Power Pack,3,$2.99,Marvel,4441
+248,243,Shark-Man,1,$3.50,Image,4303
+249,258,Marvel Adventures Fantastic Four,32,$2.99,Marvel,4289
+250,259,Marvel Illustrated Picture Dorian Gray,2,$2.99,Marvel,4282
+261,266,Infinite Horizon,2,$2.99,Image,3736
+262,268,Batman 671 2nd Ptg (Ghul),$2.99,DC,3673
+266,249,Bloodrayne Automaton,0,$3.99,Digital Webbing,3487
+270,302,Steve Niles Strange Cases,3,$2.50,Image,3334
+271,281,After The Cape II,3,$2.99,Image,3327
+274,264,New World Order,1,$3.50,Image,3279
+275,267,Suburban Glamour,3,$3.50,Image,3182
+279,273,Cemetery Blues,1,$3.50,Image,3030
+280,288,76,1,$2.99,Image,3016
+282,292,Proof,4,$2.99,Image,2954
+284,297,Hawaiian Dick,2,$2.99,Image,2892
+289,305,Red Prophet Tales of Alvin Maker,12,$2.99,Marvel,2753
+290,307,Ramayan 3392 A.D. Reloaded,3,$2.99,Virgin,2726
+299,291,Jack Staff Special,1,$3.50,Image,2546
+1,1,X-Force,1,$2.99,Marvel,105084
+2,2,New Avengers,38,$2.99,Marvel,104075
+3,3,Amazing Spider-Man,549,$2.99,Marvel,101048
+4,4,Thor,6,$2.99,Marvel,98254
+5,5,Ultimates 3,3,$2.99,Marvel,97149
+7,7,Hulk,2,$2.99,Marvel,93666
+8,8,Fantastic Four,554,$2.99,Marvel,92596
+9,9,Amazing Spider-Man,550,$2.99,Marvel,90817
+10,10,Uncanny X-Men,495,$2.99,Marvel,90353
+12,12,X-Men Legacy,208,$2.99,Marvel,88076
+13,13,Amazing Spider-Man,551,$2.99,Marvel,88029
+15,15,Captain America,35,$2.99,Marvel,85984
+17,17,Mighty Avengers,9,$2.99,Marvel,83414
+24,25,Wolverine,62,$2.99,Marvel,64157
+25,27,Ultimate Spider-Man,119,$2.99,Marvel,58009
+26,28,Marvel Zombies 2,5,$2.99,Marvel,57000
+27,29,X-Factor,28,$2.99,Marvel,56536
+30,31,Incredible Hercules,114,$2.99,Marvel,52167
+33,34,Wolverine Origins,22,$2.99,Marvel,50292
+35,36,Ultimate X-Men,91,$2.99,Marvel,49031
+36,37,Ultimate Human,2,$2.99,Marvel,48547
+38,38,Kick Ass,1,$2.99,Marvel,47811
+40,40,Ultimate Iron Man II,3,$2.99,Marvel,43469
+41,41,Daredevil,105,$2.99,Marvel,42072
+45,46,Ultimate Fantastic Four,51,$2.99,Marvel,38779
+50,52,Iron Man,26,$2.99,Marvel,36584
+52,57,Young Avengers Presents,2,$2.99,Marvel,34744
+54,59,Captain Marvel,3,$2.99,Marvel,33721
+55,60,Runaways,29,$2.99,Marvel,33190
+56,62,Punisher War Journal,16,$2.99,Marvel,32488
+57,64,Moon Knight,15,$2.99,Marvel,31533
+58,65,New Exiles,2,$2.99,Marvel,31336
+62,69,World War Hulk Aftersmash Warbound,3,$2.99,Marvel,30688
+65,71,Annihilation Conquest,4,$2.99,Marvel,29372
+68,75,Thunderbolts International Incident,0,$2.99,Marvel,28493
+70,77,Ghost Rider,20,$2.99,Marvel,27941
+71,50,Immortal Iron Fist Orson Randall Green Mist Death,0,$3.99,Marvel,27907
+73,79,Twelve,2,$2.99,Marvel,27532
+74,80,Anita Blake Vampire Hunter Guilty Pleasures,8,$2.99,Marvel,27341
+76,56,Nova Annual,1,$3.99,Marvel,26257
+77,82,World War Hulk Aftersmash Damage Control,2,$2.99,Marvel,25971
+80,85,New Warriors,9,$2.99,Marvel,25678
+81,86,House of M Avengers,5,$2.99,Marvel,25330
+82,61,Spider-Man With Great Power,2,$3.99,Marvel,24785
+83,87,Silver Surfer In Thy Name,4,$2.99,Marvel,24696
+85,90,Ms. Marvel,24,$2.99,Marvel,24124
+88,63,Cable Deadpool,50,$3.99,Marvel,23912
+89,93,Black Panther,34,$2.99,Marvel,23381
+90,45,Fantastic Four Lost Adventure,0,$4.99,Marvel,23272
+95,99,She-Hulk 2,26,$2.99,Marvel,22167
+97,53,Punisher Force of Nature,0,$4.99,Marvel,21424
+98,74,Black Panther Annual,1,$3.99,Marvel,21418
+100,105,Clandestine,1,$2.99,Marvel,20620
+103,107,Order,8,$2.99,Marvel,19182
+107,101,Criminal 2,1,$3.50,Marvel,18643
+121,127,Amazing Spider-Girl,17,$2.99,Marvel,16182
+123,103,Marvel Comics Presents,6,$3.99,Marvel,16107
+130,135,X-Men First Class Vol. 2,9,$2.99,Marvel,15310
+138,144,Lords of Avalon Sod,1,$2.99,Marvel,14274
+140,146,Iron Man Enter Mandarin,5,$2.99,Marvel,14117
+148,121,Dead of Night Featuring Man Thing,1,$3.99,Marvel,12713
+154,168,Captain America,34,$2.99,Marvel,11677
+155,136,Terror Inc,5,$3.99,Marvel,11465
+165,184,Avengers Classic,9,$2.99,Marvel,9584
+174,190,Omega Unknown,5,$2.99,Marvel,9141
+176,166,Zombie Simon Garth,4,$3.99,Marvel,9066
+181,142,Spider-Man Family,7,$4.99,Marvel,8582
+192,206,Marvel Illustrated Moby Dick,1,$2.99,Marvel,7246
+210,228,Marvel Adventures Spider-Man,36,$2.99,Marvel,5889
+212,183,Civil War Chronicles,8,$4.99,Marvel,5808
+218,234,Marvel Adventures Avengers,21,$2.99,Marvel,5603
+225,239,Marvel Illustrated Iliad,3,$2.99,Marvel,5146
+231,203,New Exiles,0,$4.99,Marvel,4608
+233,249,Marvel Adventures Hulk,8,$2.99,Marvel,4560
+235,252,Twelve,1,$2.99,Marvel,4540
+237,254,Marvel Adventures Iron Man,10,$2.99,Marvel,4315
+238,255,Iron Man Power Pack,4,$2.99,Marvel,4254
+239,256,Marvel Adventures Fantastic Four,33,$2.99,Marvel,4219
+249,262,Hulk,1,$2.99,Marvel,3797
+250,264,New Exiles,1,$2.99,Marvel,3763
+252,266,Marvel Illustrated Picture Dorian Gray,3,$2.99,Marvel,3688
+264,222,New Avengers Poster Book,0,$5.99,Marvel,3204
+292,298,Fallen Son Death of Captain America Iron Man,0,$2.99,Marvel,2174
+1,1,Dark Tower: Long Road Home,1,$3.99,Marvel,123803
+2,2,New Avengers,39,$2.99,Marvel,103016
+3,3,Thor,7,$2.99,Marvel,97462
+4,4,Amazing Spider-Man,552,$2.99,Marvel,89808
+5,5,Uncanny X-Men,496,$2.99,Marvel,89028
+8,9,Amazing Spider-Man,553,$2.99,Marvel,82624
+9,10,Mighty Avengers,11,$2.99,Marvel,82229
+10,11,X-Men Legacy,209,$2.99,Marvel,82219
+11,12,Mighty Avengers,10,$2.99,Marvel,82125
+12,13,X-Force,2,$2.99,Marvel,81690
+13,14,Captain America,36,$2.99,Marvel,81354
+14,15,Amazing Spider-Man,554,$2.99,Marvel,81048
+16,18,Cable,1,$2.99,Marvel,68631
+22,24,Fantastic Four,555,$2.99,Marvel,67396
+24,27,Wolverine,63,$2.99,Marvel,64456
+25,8,Logan,1,$3.99,Marvel,63270
+27,30,Ultimate Spider-Man,120,$2.99,Marvel,57711
+28,31,X-Factor,29,$2.99,Marvel,54816
+29,33,Avengers Initiative,10,$2.99,Marvel,54406
+30,34,Wolverine Origins,23,$2.99,Marvel,49618
+33,36,Incredible Hercules,115,$2.99,Marvel,49321
+35,38,Ultimate X-Men,92,$2.99,Marvel,49000
+38,40,Ultimate Human,3,$2.99,Marvel,45626
+41,42,Daredevil,106,$2.99,Marvel,41524
+42,43,Ultimate Iron Man II,4,$2.99,Marvel,41342
+43,32,Ms Marvel,25,$3.99,Marvel,40981
+45,45,Captain Marvel,4,$2.99,Marvel,40610
+46,46,Thunderbolts,119,$2.99,Marvel,40161
+47,47,Ultimate Fantastic Four,52,$2.99,Marvel,38135
+51,51,Iron Man,27,$2.99,Marvel,36000
+52,52,Wolverine First Class,1,$2.99,Marvel,35684
+55,56,Last Defenders,1,$2.99,Marvel,33056
+59,61,Immortal Iron Fist,13,$2.99,Marvel,32038
+60,62,Punisher,55,$2.99,Marvel,31267
+61,63,Punisher War Journal,17,$2.99,Marvel,31217
+62,65,New Exiles,3,$2.99,Marvel,30471
+67,69,Moon Knight,16,$2.99,Marvel,29538
+68,70,Annihilation Conquest,5,$2.99,Marvel,29439
+69,72,Twelve,3,$2.99,Marvel,29256
+70,74,Nova,11,$2.99,Marvel,28154
+74,79,World War Hulk Aftersmash Warbound,4,$2.99,Marvel,26736
+75,80,Ghost Rider,21,$2.99,Marvel,26519
+76,81,Anita Blake Vampire Hunter Guilty Pleasures,9,$2.99,Marvel,26316
+83,89,New Warriors,10,$2.99,Marvel,23880
+89,71,Spider-Man With Great Power,3,$3.99,Marvel,22022
+90,94,World War Hulk Aftersmash Damage Control,3,$2.99,Marvel,21829
+92,95,She-Hulk 2,27,$2.99,Marvel,21414
+93,96,Black Panther,35,$2.99,Marvel,21326
+96,99,Penance Relentless,5,$2.99,Marvel,20639
+98,76,War Is Hell: First Flight Phantom Eagle,1,$3.99,Marvel,20367
+99,84,Powers,28,$3.95,Marvel,19250
+104,107,Order,9,$2.99,Marvel,18311
+114,120,Amazing Spider-Girl,18,$2.99,Marvel,15905
+119,125,Clandestine,2,$2.99,Marvel,15362
+120,101,Marvel Comics Presents,7,$3.99,Marvel,15011
+122,130,X-Men First Class Vol. 2,10,$2.99,Marvel,14902
+130,138,Iron Man Enter Mandarin,6,$2.99,Marvel,13543
+132,109,Captain America,34 Directors Cut,$3.99,Marvel,13425
+139,149,Avengers Fairy Tales,1,$2.99,Marvel,12758
+147,154,New Avengers,31,$2.99,Marvel,11770
+150,127,Foolkiller,4,$3.99,Marvel,11350
+152,158,X-Force,1,$2.99,Marvel,11315
+156,160,Ultimates 3,1,$2.99,Marvel,11043
+158,133,Marvel Atlas,2,$3.99,Marvel,10890
+165,141,Dead of Night Featuring Man Thing,2,$3.99,Marvel,10040
+174,181,Avengers Classic,10,$2.99,Marvel,9171
+182,190,Omega Unknown,6,$2.99,Marvel,8592
+186,194,Power Pack Day One,1,$2.99,Marvel,8296
+188,197,Hulk,2,$2.99,Marvel,7871
+192,124,Secret Invasion Saga (Bundle of 25),0,$6.25,Marvel,7392
+197,211,Lords of Avalon Sod,2,$2.99,Marvel,6992
+198,213,Ultimates 3,2,$2.99,Marvel,6972
+208,220,Fallen Son Death of Captain America Iron Man,0,$2.99,Marvel,6547
+211,224,Hedge Knight 2 Sworn Sword,5,$2.99,Marvel,6290
+217,229,Marvel Adventures Spider-Man,37,$2.99,Marvel,5875
+219,231,Uncanny X-Men,495,$2.99,Marvel,5771
+222,232,Franklin Richards Spring Break,0,$2.99,Marvel,5682
+225,235,Marvel Adventures Avengers,22,$2.99,Marvel,5573
+226,179,Civil War Chronicles,9,$4.99,Marvel,5534
+228,239,Wolverine,62 2nd Ptg,$2.99,Marvel,5499
+229,240,Fantastic Four,554,$2.99,Marvel,5455
+231,205,New Avengers Illuminati Secret History,0,$3.99,Marvel,5435
+234,242,Marvel Illustrated Iliad,4,$2.99,Marvel,5198
+237,249,Twelve,2,$2.99,Marvel,4852
+241,253,Captain Marvel,3,$2.99,Marvel,4753
+244,255,Marcos Spotlight Hamilton Martin,0,$2.99,Marvel,4654
+247,257,X-Factor,28,$2.99,Marvel,4600
+248,258,Marcos Adventures Iron Man,11,$2.99,Marvel,4570
+253,259,Marcos Adventures Hulk,9,$2.99,Marvel,4393
+255,263,Marcos Adventures Fantastic Four,34,$2.99,Marvel,4175
+258,267,Marcos Illustrated Moby Dick,2,$2.99,Marvel,3953
+260,268,Marcos Illustrated Picture Dorian Gray,4,$2.99,Marvel,3874
+275,286,New Exiles,2,$2.99,Marvel,3098
+297,314,Hulk,1,$2.99,Marvel,2130
+1,1,Secret Invasion,1,$3.99,Marvel,250213
+2,3,New Avengers,40,$2.99,Marvel,110448
+3,2,Dark Tower Long Road Home,2,$3.99,Marvel,103008
+4,4,Mighty Avengers,12,$2.99,Marvel,97219
+5,5,Uncanny X-Men,497,$2.99,Marvel,93350
+6,6,Hulk,3,$2.99,Marvel,92468
+7,7,Thor,8,$2.99,Marvel,91963
+8,10,Amazing Spider-Man,555,$2.99,Marvel,86885
+10,12,X-Force,3,$2.99,Marvel,85732
+12,14,Captain America,37,$2.99,Marvel,80619
+14,16,Amazing Spider-Man,556,$2.99,Marvel,78442
+15,17,X-Men Legacy,210,$2.99,Marvel,77425
+16,18,Amazing Spider-Man,557,$2.99,Marvel,77041
+19,22,Young X-Men,1,$2.99,Marvel,71579
+24,27,Cable,1,$2.99,Marvel,65555
+26,9,X-Men: Divided We Stand,1,$3.99,Marvel,65327
+27,29,Fantastic Four,556,$2.99,Marvel,65000
+28,30,Wolverine,64,$2.99,Marvel,64858
+29,32,Cable,2,$2.99,Marvel,59865
+31,35,Ultimate Spider-Man,121,$2.99,Marvel,56622
+33,19,Logan,2,$3.99,Marvel,56102
+35,37,Avengers Initiative,11,$2.99,Marvel,52866
+37,39,Avengers Initiative,12,$2.99,Marvel,52333
+38,40,X-Factor,30,$2.99,Marvel,51437
+39,41,Wolverine Origins,24,$2.99,Marvel,49289
+40,42,Ultimate X-Men,93,$2.99,Marvel,49097
+46,48,Kick Ass,2,$2.99,Marvel,45654
+47,49,Incredible Hercules,116,$2.99,Marvel,44566
+48,33,Thor Ages of Thunder,0,$3.99,Marvel,43428
+49,50,Ultimate Human,4,$2.99,Marvel,43414
+50,51,Ms Marvel,26,$2.99,Marvel,42269
+53,57,Captain Marvel,5,$2.99,Marvel,38663
+55,60,Ultimate Fantastic Four,53,$2.99,Marvel,37454
+58,45,Iron Man,28,$3.99,Marvel,35747
+62,67,Young Avengers Presents,3,$2.99,Marvel,31977
+64,53,Immortal Iron Fist,14,$3.99,Marvel,30875
+65,69,Punisher,56,$2.99,Marvel,30789
+67,71,Young Avengers Presents,4,$2.99,Marvel,30299
+68,54,Daredevil: Blood of Tarantula,0,$3.99,Marvel,30299
+72,55,Annihilation Conquest,6,$3.99,Marvel,29872
+73,74,Twelve,4,$2.99,Marvel,29723
+74,76,Punisher War Journal,18,$2.99,Marvel,29559
+75,78,New Exiles,4,$2.99,Marvel,29225
+77,80,New Exiles,5,$2.99,Marvel,28499
+78,58,Hulk Vs. Hercules: When Titans Collide,0,$3.99,Marvel,28407
+79,81,Nova,12,$2.99,Marvel,28179
+81,83,Moon Knight,17,$2.99,Marvel,27802
+82,84,Iron Man Legacy of Doom,1,$2.99,Marvel,27297
+86,88,Ghost Rider,22,$2.99,Marvel,25861
+87,89,Last Defenders,2,$2.99,Marvel,25725
+89,91,Wolverine First Class,2,$2.99,Marvel,25605
+91,92,World War Hulk Aftersmash: Warbound,5,$2.99,Marvel,24531
+96,98,New Warriors,11,$2.99,Marvel,22632
+100,102,Anita Blake Vampire Hunter: Guilty Pleasures,10,$2.99,Marvel,21458
+101,103,She-Hulk 2,28,$2.99,Marvel,20839
+108,77,Powers Annual 2008,0,$4.95,Marvel,17838
+109,117,Order,10,$2.99,Marvel,17297
+118,129,Amazing Spider-Girl,19,$2.99,Marvel,15967
+119,110,Criminal 2,2,$3.50,Marvel,15882
+128,140,X-Men First Class Vol. 2,11,$2.99,Marvel,14893
+134,109,War Is Hell First Flight: Phantom Eagle Max,2,$3.99,Marvel,13990
+140,114,Marvel Comics Presents,8,$3.99,Marvel,13627
+141,150,Clandestine,3,$2.99,Marvel,13513
+144,118,Giant Size Avengers/Invaders,1,$3.99,Marvel,12852
+153,168,Kick Ass,1,$2.99,Marvel,11380
+172,186,Avengers Fairy Tales,2,$2.99,Marvel,9666
+178,159,Dead of Night Featuring Man Thing,3,$3.99,Marvel,9203
+179,193,Avengers Classic,11,$2.99,Marvel,9104
+189,172,Amazing Spider-Man,544,$3.99,Marvel,8314
+190,202,Omega Unknown,7,$2.99,Marvel,8300
+193,204,Marvel Spotlight Iron Man Movie,0,$2.99,Marvel,8122
+195,154,Spider-Man Family,8,$4.99,Marvel,7888
+198,130,Iron Man Hulk Sampler (Bundle of 25),0,$6.25,Marvel,7617
+200,180,Friendly Neighborhood Spider-Man,24,$3.99,Marvel,7532
+207,141,Avengers Invaders Sketchbook (Bundle of 25),0,$6.25,Marvel,7112
+213,217,X-Force,2,$2.99,Marvel,6935
+218,227,Ultimates 3,3,$2.99,Marvel,6358
+220,231,Lords of Avalon Sod,3,$2.99,Marvel,6159
+221,234,Hedge Knight 2 Sworn Sword,6,$2.99,Marvel,6102
+225,241,Marvel Adventures Spider-Man,38,$2.99,Marvel,5832
+227,166,Soleil Sampler (Bundle of 25),0,$6.25,Marvel,5640
+229,249,Marvel Adventures Avengers,23,$2.99,Marvel,5555
+234,198,Civil War Chronicles,10,$4.99,Marvel,5348
+237,253,Marvel Illustrated Iliad,5,$2.99,Marvel,5256
+246,261,Marvel Adventures Iron Man,12,$2.99,Marvel,4865
+248,263,Power Pack Day One,2,$2.99,Marvel,4829
+253,266,Marvel Adventures Hulk,10,$2.99,Marvel,4644
+276,278,Marvel Adventures Fantastic Four,35,$2.99,Marvel,4154
+282,287,Marvel Illustrated Picture Dorian Gray,5,$2.99,Marvel,3869
+284,290,Marvel Illustrated Moby Dick,3,$2.99,Marvel,3713
+289,295,Twelve,3,$2.99,Marvel,3464
+299,218,Iron Man Poster Book,0,$6.99,Marvel,2966
+1,1,Secret Invasion,2,$3.99,Marvel,182390
+3,5,New Avengers,41,$2.99,Marvel,109153
+4,6,Avengers Invaders,1,$2.99,Marvel,108104
+5,7,Invincible Iron Man,1,$2.99,Marvel,105833
+6,3,Giant Size Astonishing X-Men,1,$4.99,Marvel,105477
+8,9,Mighty Avengers,13,$2.99,Marvel,96862
+10,12,Mighty Avengers,14,$2.99,Marvel,95253
+12,4,Dark Tower Long Road Home,3,$3.99,Marvel,87605
+13,15,Thor,9,$2.99,Marvel,87076
+14,16,Uncanny X-Men,498,$2.99,Marvel,82066
+16,18,X-Force,4,$2.99,Marvel,80151
+17,19,X-Men Legacy,211,$2.99,Marvel,79795
+18,20,Captain America,38,$2.99,Marvel,79327
+20,22,Amazing Spider-Man,558,$2.99,Marvel,76944
+21,24,Amazing Spider-Man,559,$2.99,Marvel,74184
+22,25,X-Men Legacy,212,$2.99,Marvel,74011
+23,26,Amazing Spider-Man,560,$2.99,Marvel,73991
+26,32,Fantastic Four,557,$2.99,Marvel,62718
+27,33,Wolverine,65,$2.99,Marvel,62433
+28,34,Secret Invasion Fantastic Four,1,$2.99,Marvel,60671
+29,11,King Size Hulk,1,$4.99,Marvel,57463
+31,37,Avengers Initiative,13,$2.99,Marvel,56801
+32,23,X-Men Divided We Stand,2,$3.99,Marvel,56547
+33,38,Ultimate Spider-Man,122,$2.99,Marvel,55742
+34,27,Marvel 1985,1,$3.99,Marvel,55121
+35,39,Cable,3,$2.99,Marvel,54744
+36,28,Logan,3,$3.99,Marvel,54612
+38,40,Incredible Hercules,117,$2.99,Marvel,52993
+39,29,Wolverine Origins,25,$3.99,Marvel,52891
+42,43,Young X-Men,2,$2.99,Marvel,51252
+43,44,Ultimate X-Men,94,$2.99,Marvel,49765
+45,47,X-Factor,31,$2.99,Marvel,48217
+51,55,Captain Britain & M.I. 13,1,$2.99,Marvel,43268
+52,57,Miss Marvel,27,$2.99,Marvel,41119
+53,58,Daredevil,107,$2.99,Marvel,40407
+54,59,Thunderbolts,120,$2.99,Marvel,38319
+56,62,Ultimate Fantastic Four,54,$2.99,Marvel,37545
+58,63,X-Factor Quick & Dead,0,$2.99,Marvel,37087
+60,65,Iron Man Director of Shield,29,$2.99,Marvel,36405
+61,66,Guardians of Galaxy,1,$2.99,Marvel,36282
+62,46,Giant Size Incredible Hulk,1,$3.99,Marvel,36201
+64,49,Iron Man Viva Las Vegas,1,$3.99,Marvel,35142
+67,53,Genext,1,$3.99,Marvel,33676
+68,56,Wolverine Amazing Immortal Man Bloody Tales,0,$3.99,Marvel,32270
+71,74,Punisher,57,$2.99,Marvel,30519
+73,76,Immortal Iron Fist,15,$2.99,Marvel,30325
+75,78,Punisher War Journal,19,$2.99,Marvel,29898
+76,79,Twelve,5,$2.99,Marvel,29867
+80,84,Newuniversal Shockfront,1,$2.99,Marvel,28879
+81,85,Young Avengers Presents,5,$2.99,Marvel,28788
+82,87,Nova,13,$2.99,Marvel,28136
+85,90,Thunderbolts Reason In Madness,0,$2.99,Marvel,27627
+86,92,New Exiles,6,$2.99,Marvel,27525
+88,68,X-Men Origin Colossus,0,$3.99,Marvel,26751
+89,95,Moon Knight,18,$2.99,Marvel,26619
+92,100,Ghost Rider,23,$2.99,Marvel,25091
+99,107,Last Defenders,3,$2.99,Marvel,23380
+100,108,Iron Man Legacy of Doom,2,$2.99,Marvel,23370
+105,112,Wolverine First Class,3,$2.99,Marvel,22423
+106,80,Angel Revelations,1,$3.99,Marvel,22321
+109,115,New Warriors,12,$2.99,Marvel,21802
+111,118,Black Panther,36,$2.99,Marvel,20835
+112,119,She-Hulk 2,29,$2.99,Marvel,20672
+114,120,Anita Blake Vampire Hunter Guilty Pleasures,11,$2.99,Marvel,20621
+119,73,All New Iron Manual,0,$4.99,Marvel,18289
+129,136,Amazing Spider-Girl,20,$2.99,Marvel,15641
+131,139,American Dream,1,$2.99,Marvel,15254
+135,144,X-Men First Class Vol. 2,12,$2.99,Marvel,14562
+144,128,Marvel Comics Presents,9,$3.99,Marvel,13666
+147,154,American Dream,2,$2.99,Marvel,13146
+151,98,Soleil Sky Doll,1,$5.99,Marvel,12973
+152,131,War Is Hell First Flight Phantom Eagle Max,3,$3.99,Marvel,12485
+153,160,Clandestine,4,$2.99,Marvel,12220
+175,157,Foolkiller,5,$3.99,Marvel,9694
+184,201,Kick Ass,2,$2.99,Marvel,8931
+189,174,Avengers Classic,12,$3.99,Marvel,8513
+190,175,Dead of Night Featuring Man Thing,4,$3.99,Marvel,8503
+199,214,Omega Unknown,8,$2.99,Marvel,7892
+201,217,Hulk 3 2nd Ptg,$2.99,Marvel,7678
+202,218,Marvel Spotlight Hulk Movie,0,$2.99,Marvel,7678
+209,167,X-Force Legacy of Vengeance One Shot,0,$4.99,Marvel,7006
+213,228,Franklin Richards Not So Secret Invasion,0,$2.99,Marvel,6762
+230,193,Captain Marvel Ms. Marvel Infiltration,0,$4.99,Marvel,5855
+233,241,Marvel Adventures Spider-Man 39,$2.99,Marvel,5815
+236,250,Lords of Avalon Sod 4,$2.99,Marvel,5550
+240,254,Marvel Adventures Avengers 24,$2.99,Marvel,5356
+245,258,Mary Illustrated Iliad 6,$2.99,Marvel,5193
+250,207,Civil War Chronicles 11,$4.99,Marvel,5051
+256,266,Marvel Adventures Iron Man 13,$2.99,Marvel,4908
+259,271,Power Pack Day One 3,$2.99,Marvel,4694
+260,272,Marvel Adventures Hulk 11,$2.99,Marvel,4684
+264,334,Iron Man Legacy of Doom 1,$1.50,Marvel,4318
+269,245,Secret Invasion 1,$3.99,Marvel,4185
+272,283,Marvel Adventures Fantastic Four 36,$2.99,Marvel,4053
+278,287,Marvel Illustrated Picture Dorian Gray 6,$2.99,Marvel,3788
+283,288,Marvel Illustrated Moby Dick 4,$2.99,Marvel,3595
+1,1,Secret Invasion,3,$3.99,Marvel,175670
+2,3,Ultimate Origins,1,$2.99,Marvel,136367
+4,4,New Avengers,42,$2.99,Marvel,108454
+5,6,Wolverine,66,$2.99,Marvel,97989
+6,7,Ultimates 3,4,$2.99,Marvel,95652
+7,8,Mighty Avengers,15,$2.99,Marvel,93979
+8,9,Hulk,4,$2.99,Marvel,90566
+10,11,Avengers Invaders,2,$2.99,Marvel,82981
+11,13,Uncanny X-Men,499,$2.99,Marvel,81069
+13,15,Captain America,39,$2.99,Marvel,79358
+14,5,Dark Tower Long Road Home,4,$3.99,Marvel,79240
+16,17,Skaar Son of Hulk,1,$2.99,Marvel,73670
+17,18,Amazing Spider-Man,561,$2.99,Marvel,72345
+18,19,X-Men Legacy,213,$2.99,Marvel,71866
+19,20,Amazing Spider-Man,562,$2.99,Marvel,71382
+20,21,Amazing Spider-Man,563,$2.99,Marvel,70766
+22,23,Invincible Iron Man,2,$2.99,Marvel,68995
+25,28,Avengers Initiative,14,$2.99,Marvel,62213
+26,30,Fantastic Four,558,$2.99,Marvel,60980
+27,12,Secret Invasion Who Do You Trust,0,$3.99,Marvel,60976
+30,34,Ultimate Spider-Man,123,$2.99,Marvel,57166
+33,38,Incredible Hercules,118,$2.99,Marvel,52956
+35,40,Secret Invasion Fantastic Four,2,$2.99,Marvel,51415
+36,41,Kick Ass,3,$2.99,Marvel,50877
+38,43,Secret Invasion Runaways Young Avengers,1,$2.99,Marvel,50105
+39,44,Cable,4,$2.99,Marvel,49978
+41,46,Ultimate X-Men,95,$2.99,Marvel,48119
+42,47,Wolverine Origins,26,$2.99,Marvel,48041
+46,29,Thor Ages of Thunder Reign of Blood,0,$3.99,Marvel,46559
+47,49,Young X-Men,3,$2.99,Marvel,45210
+48,50,X-Factor,32,$2.99,Marvel,45087
+50,32,X-Force Ain't No Dog,0,$3.99,Marvel,44970
+51,53,Ms Marvel,28,$2.99,Marvel,42178
+52,54,Eternals,1,$2.99,Marvel,41664
+53,37,Marvel 1985,2,$3.99,Marvel,40119
+54,55,Daredevil,108,$2.99,Marvel,39542
+55,56,Captain Britain & Mi 13,2,$2.99,Marvel,37972
+56,57,Thunderbolts,121,$2.99,Marvel,37679
+58,60,Ultimate Fantastic Four,55,$2.99,Marvel,35718
+59,61,Iron Man Director of Shield,30,$2.99,Marvel,35371
+64,69,Guardians of Galaxy,2,$2.99,Marvel,32955
+65,52,Wolverine Dangerous Game,0,$3.99,Marvel,31928
+66,70,Runaways,30,$2.99,Marvel,31341
+69,75,Immortal Iron Fist,16,$2.99,Marvel,29810
+70,76,Punisher,58,$2.99,Marvel,29791
+74,80,Twelve,6,$2.99,Marvel,29292
+76,82,Nova,14,$2.99,Marvel,28881
+77,83,Young Avengers Presents,6,$2.99,Marvel,28466
+80,86,Punisher War Journal,20,$2.99,Marvel,27277
+81,59,Hulk Raging Thunder,0,$3.99,Marvel,26984
+83,88,Moon Knight,19,$2.99,Marvel,25810
+84,89,New Exiles,7,$2.99,Marvel,25732
+85,65,Genext,2,$3.99,Marvel,25336
+88,93,Ghost Rider,24,$2.99,Marvel,24485
+90,95,Newuniversal Shockfront,2,$2.99,Marvel,23932
+93,98,Astonishing X-Men Sketchbook,0,$2.99,Marvel,23385
+95,73,Punisher Max Little Black Book,0,$3.99,Marvel,22818
+97,103,Iron Man Legacy of Doom,3,$2.99,Marvel,22108
+102,108,Last Defenders,4,$2.99,Marvel,21536
+103,109,She-Hulk 2,30,$2.99,Marvel,21008
+104,110,New Warriors,13,$2.99,Marvel,20984
+105,112,Wolverine First Class,4,$2.99,Marvel,20192
+106,113,Black Panther,37,$2.99,Marvel,19981
+107,114,Anita Blake Vampire Hunter Guilty Pleasures,12,$2.99,Marvel,19859
+110,90,Mythos Captain America,0,$3.99,Marvel,19277
+112,92,Spider-Man With Great Power,4,$3.99,Marvel,18441
+120,120,Criminal 2,3,$3.50,Marvel,15834
+123,132,Amazing Spider-Girl,21,$2.99,Marvel,15653
+125,111,Angel Revelations,2,$3.99,Marvel,15345
+133,140,Invincible Iron Man,1,$2.99,Marvel,14788
+138,148,Marvel Spotlight Secret Invasion,0,$2.99,Marvel,14201
+139,149,X-Men First Class Vol. 2,13,$2.99,Marvel,14152
+140,118,Kick Ass,1 Directors Cut,$3.99,Marvel,14089
+142,121,Haunt of Horror Lovecraft,1,$3.99,Marvel,13600
+146,123,Marvel Comics Presents,10,$3.99,Marvel,12895
+150,164,Clandestine,5,$2.99,Marvel,11922
+154,130,War Is Hell First Flight Phantom Eagle Max,4,$3.99,Marvel,11761
+156,170,American Dream,3,$2.99,Marvel,11536
+158,102,Sky Doll,2,$5.99,Marvel,11203
+160,176,American Dream,4,$2.99,Marvel,11027
+172,154,Secret Invasion,2,$3.99,Marvel,9785
+185,171,Secret Invasion,1,$3.99,Marvel,8577
+190,202,Avengers Fairy Tales,3,$2.99,Marvel,8186
+196,205,Omega Unknown,9,$2.99,Marvel,7722
+198,161,Spider-Man Family,9,$4.99,Marvel,7428
+205,191,Marvel Illustrated Three Musketeers,1,$3.99,Marvel,6934
+209,220,New Avengers,40,$2.99,Marvel,6729
+218,231,Marvel Adventures Spider-Man,40,$2.99,Marvel,5951
+227,240,Mighty Avengers,13 2nd Ptg Yu Var,$2.99,Marvel,5374
+228,242,Marvel Adventures Avengers,25,$2.99,Marvel,5325
+232,249,Lords of Avalon Sod,5,$2.99,Marvel,5193
+233,250,Marc Marvel Illustrated Iliad,7,$2.99,Marvel,5120
+234,217,Iron Man Viva Las Vegas,1,$3.99,Marvel,5096
+235,198,Civil War Chronicles,12,$4.99,Marvel,5071
+247,264,Marvel Adventures Hulk,12,$2.99,Marvel,4714
+249,230,Thor Search For Odin,0,$3.99,Marvel,4523
+252,270,Power Pack Day One,4,$2.99,Marvel,4489
+255,234,Thor Ages of Thunder,0,$3.99,Marvel,4254
+260,279,Marvel Adventures Fantastic Four,37,$2.99,Marvel,3971
+267,286,Marc Marvel Illustrated Moby Dick,5,$2.99,Marvel,3545
+279,213,Spider-Man Magazine,1,$6.99,Marvel,3017
+281,277,Dark Tower Long Road Home,2,$3.99,Marvel,2993
+285,361,Giant Size X-Men First Class New Beginnings,0,$1.50,Marvel,2934
+294,244,Soleil Sky Doll,1,$5.99,Marvel,2650
+296,377,Giant Size Fantastic Four Cosmic Threats,0,$1.50,Marvel,2616
+1,1,Secret Invasion,4,$3.99,Marvel,175423
+2,2,Uncanny X-Men,500,$3.99,Marvel,151923
+3,3,Astonishing X-Men,25,$2.99,Marvel,110701
+4,4,New Avengers,43,$2.99,Marvel,108728
+6,8,Mighty Avengers,16,$2.99,Marvel,96232
+7,9,Wolverine,67,$2.99,Marvel,89043
+8,11,Thor,10,$2.99,Marvel,83767
+11,16,Ultimate Origins,2,$2.99,Marvel,80372
+12,17,Captain America,40,$2.99,Marvel,79301
+14,19,Avengers Invaders,3,$2.99,Marvel,75146
+15,6,Dark Tower Long Road Home,5,$3.99,Marvel,74965
+17,20,X-Force,5,$2.99,Marvel,72803
+19,22,X-Men Legacy,214,$2.99,Marvel,69849
+20,23,Amazing Spider-Man,565,$2.99,Marvel,69168
+21,24,Amazing Spider-Man,566,$2.99,Marvel,68898
+22,25,Amazing Spider-Man,564,$2.99,Marvel,68868
+25,28,Avengers Initiative,15,$2.99,Marvel,63621
+26,29,Invincible Iron Man,3,$2.99,Marvel,63030
+30,33,Skaar Son of Hulk,2,$2.99,Marvel,56972
+31,34,Secret Invasion Front Line,1,$2.99,Marvel,56302
+32,35,Captain America White,0,$2.99,Marvel,56242
+33,36,Ultimate Spider-Man,124,$2.99,Marvel,55250
+37,40,X-Factor,33,$2.99,Marvel,53078
+38,41,Incredible Hercules,119,$2.99,Marvel,52587
+42,47,Secret Invasion Fantastic Four,3,$2.99,Marvel,48121
+43,48,Ultimate X-Men,96,$2.99,Marvel,48001
+45,50,Wolverine Origins,27,$2.99,Marvel,47530
+46,51,Thunderbolts,122,$2.99,Marvel,47160
+47,52,Cable,5,$2.99,Marvel,46419
+50,31,Amazing Spider-Man Extra,0,$3.99,Marvel,44447
+52,55,Young X-Men,4,$2.99,Marvel,41333
+53,56,Ms Marvel,29,$2.99,Marvel,41222
+54,59,Daredevil,109,$2.99,Marvel,39250
+56,43,Marvel 1985,3,$3.99,Marvel,38669
+57,26,Skrulls One-Shot,0,$4.99,Marvel,38439
+58,63,Captain Britain & M.I. 13,3,$2.99,Marvel,36937
+61,66,She-Hulk 2,31,$2.99,Marvel,36046
+62,67,Squadron Supreme 2,1,$2.99,Marvel,35575
+63,68,Iron Man Director of Shield,31,$2.99,Marvel,35345
+64,69,Ultimate Fantastic Four,56,$2.99,Marvel,35075
+68,74,Black Panther,39,$2.99,Marvel,33893
+70,76,New Warriors,14,$2.99,Marvel,33202
+71,77,Immortal Iron Fist,17,$2.99,Marvel,32832
+74,81,Guardians of the Galaxy,3,$2.99,Marvel,31700
+79,86,Eternals,2,$2.99,Marvel,30389
+82,89,Punisher,59,$2.99,Marvel,30058
+85,58,X-Men Odd Men Out,0,$3.99,Marvel,29518
+87,60,Dark Tower End World Almanac,0,$3.99,Marvel,29257
+92,62,Moon Knight,20,$3.99,Marvel,28767
+93,98,Nova,15,$2.99,Marvel,28586
+97,103,Punisher War Journal,21,$2.99,Marvel,26293
+99,106,Ghost Rider,25,$2.99,Marvel,24541
+100,107,New Exiles,8,$2.99,Marvel,24431
+106,96,Genext,3,$3.99,Marvel,21778
+109,117,Iron Man Legacy of Doom,4,$2.99,Marvel,21557
+114,123,Fantastic Four True Story,1,$2.99,Marvel,19925
+115,124,Last Defenders,5,$2.99,Marvel,19915
+118,126,Patsy Walker Hellcat,1,$2.99,Marvel,19675
+119,127,Black Panther,38,$2.99,Marvel,19455
+123,105,Powers,29,$3.95,Maarvel,18904
+124,132,Wolverine First Class,5,$2.99,Marvel,18784
+129,91,Secret Invasion,1 Directors Cut,$4.99,Marvel,17743
+130,109,Newuniversal 1959,0,$3.99,Marvel,17402
+131,110,Spider-Man With Great Power,5,$3.99,Marvel,17352
+132,140,True Believers,1,$2.99,Marvel,17152
+141,149,Amazing Spider-Girl,22,$2.99,Marvel,15370
+143,125,Angel Revelations,3,$3.99,Marvel,14839
+150,161,X-Men First Class Vol. 2,14,$2.99,Marvel,13868
+151,162,Skaar Son of Hulk,1,$2.99,Marvel,13798
+161,146,Maarvel Comics Presents,11,$3.99,Marvel,12165
+164,182,Maarvel Adventures Super Heroes,1,$2.99,Marvel,11965
+172,193,Hulk,4,$2.99,Marvel,11324
+173,111,Sky Doll,3,$5.99,Marvel,11314
+175,153,Haunt of Horror Lovecraft,2,$3.99,Marvel,11244
+176,155,War Is Hell First Flight Phantom Eagle Max,5,$3.99,Marvel,11034
+178,199,American Dream,5,$2.99,Marvel,10684
+184,167,Foolkiller White Angels,1,$3.99,Marvel,10163
+202,135,Universal War One,1,$5.99,Marvel,8961
+204,228,Marvel Spotlight Uncanny X-Men 500 Issues,0,$2.99,Marvel,8761
+218,144,Stand Sketchbook (Bundle of 25),0,$6.25,Marvel,7950
+221,171,Hulk Red Hulk Must Have,0,$4.99,Marvel,7820
+225,240,Omega Unknown,10,$2.99,Marvel,7590
+233,247,Skrulls Vs Power Pack,1,$2.99,Marvel,7139
+234,248,Wolverine 66 2nd Ptg,$2.99,Marvel,7139
+237,251,Invincible Iron Man,2,$2.99,Marvel,6989
+251,315,Secret Invasion Who Do You Trust WWC Sketch Var,0,$2.00,Marvel,6108
+253,178,Universal War One,1,$5.99,Marvel,6068
+255,236,Marvel 1985,1,$3.99,Marvel,5988
+259,275,Marvel Adventures Spider-Man 41,$2.99,Marvel,5857
+261,278,Kick Ass 3 2nd Ptg,$2.99,Marvel,5757
+269,282,Marvel Adventures Avengers 26,$2.99,Marvel,5417
+271,223,Hulk Chronicles 1,$4.99,Marvel,5387
+278,254,Secret Invasion Who Do You Trust 2nd Ptg Jimenez Var,0,$3.99,Marvel,5187
+280,291,Marvel Illustrated Iliad 8,$2.99,Marvel,5066
+283,292,Marvel Adventures Hulk 13,$2.99,Marvel,5036
+289,295,Lords of Avalon Sod 6,$2.99,Marvel,4886
+294,302,X-Force 4 2nd Ptg,$2.99,Marvel,4616
+296,208,Uncanny X-Men 500 Issues Posterbook 0,$6.99,Marvel,4376
+300,312,Incredible Hercules 117,$2.99,Marvel,4255
+1,1,Secret Invasion,5,$3.99,Marvel,165871
+3,4,New Avengers,44,$2.99,Marvel,106329
+5,6,Hulk,5,$2.99,Marvel,96296
+6,8,Astonishing X-Men,26,$2.99,Marvel,94195
+7,3,Amazing Spider-Man,568,$3.99,Marvel,93346
+8,9,Mighty Avengers,17,$2.99,Marvel,92900
+9,12,Wolverine,68,$2.99,Marvel,86223
+10,13,Uncanny X-Men,501,$2.99,Marvel,85353
+11,14,Captain America,41,$2.99,Marvel,84990
+14,18,Amazing Spider-Man,569,$2.99,Marvel,77909
+17,22,Avengers Invaders,4,$2.99,Marvel,68974
+18,23,X-Force,6,$2.99,Marvel,68974
+19,24,Ultimate Origins,3,$2.99,Marvel,68301
+21,25,Amazing Spider-Man,567,$2.99,Marvel,68094
+22,26,X-Men Legacy,215,$2.99,Marvel,68011
+24,27,Secret Invasion Thor,1,$2.99,Marvel,65474
+25,28,Secret Invasion X-Men,1,$2.99,Marvel,64481
+27,29,Avengers Initiative,16,$2.99,Marvel,60350
+28,32,Fantastic Four,559,$2.99,Marvel,59759
+30,33,Invincible Iron Man,4,$2.99,Marvel,58124
+31,34,Secret Invasion Amazing Spider-Man,1,$2.99,Marvel,56633
+34,37,Ultimate Spider-Man,125,$2.99,Marvel,54717
+37,39,Kick Ass,4,$2.99,Marvel,51135
+38,40,Incredible Hercules,120,$2.99,Marvel,51073
+39,41,Skaar Son of Hulk,3,$2.99,Marvel,50814
+40,42,X-Factor,34,$2.99,Marvel,50390
+41,43,Secret Invasion Inhumans,1,$2.99,Marvel,49944
+45,48,Ultimate X-Men,97,$2.99,Marvel,47025
+50,53,Secret Invasion Front Line,2,$2.99,Marvel,45772
+51,55,Thunderbolts,123,$2.99,Marvel,45379
+52,56,Secret Invasion Runaways Young Avengers,2,$2.99,Marvel,45285
+53,30,Cable,6,$3.99,Marvel,45027
+55,59,Venom Dark Origin,1,$2.99,Marvel,44312
+56,60,Daredevil,110,$2.99,Marvel,43339
+58,64,Guardians of Galaxy,4,$2.99,Marvel,40264
+59,66,Ultimate Iron Man II,5,$2.99,Marvel,38608
+60,67,Young X-Men,5,$2.99,Marvel,38359
+61,68,Nova,16,$2.99,Marvel,38318
+62,70,She-Hulk 2,32,$2.99,Marvel,38048
+63,72,Captain Britain and M.I. 13,4,$2.99,Marvel,36806
+64,45,Marvel 1985,4,$3.99,Marvel,36319
+66,54,Halo Uprising,3,$3.99,Marvel,34249
+67,74,Iron Man Director ofShield,32,$2.99,Marvel,34238
+68,75,Ultimate Fantastic Four,57,$2.99,Marvel,33845
+70,57,Wolverine Killing Made Simple,0,$3.99,Marvel,33628
+72,77,Black Panther,40,$2.99,Marvel,33565
+73,78,Runaways 3,1,$2.99,Marvel,33234
+75,62,X-Factor Special Layla Miller,0,$3.99,Marvel,31516
+78,82,Moon Knight,21,$2.99,Marvel,30884
+79,83,Punisher,60,$2.99,Marvel,30667
+80,84,New Warriors,15,$2.99,Marvel,30667
+81,63,Iron Man Viva Las Vegas,2,$3.99,Marvel,30418
+82,65,Nyx No Way Home,1,$3.99,Marvel,29911
+85,69,X-Men Origins Jean Grey,0,$3.99,Marvel,28596
+87,88,Punisher,61,$2.99,Marvel,28358
+89,90,Squadron Supreme 2,2,$2.99,Marvel,28037
+92,93,Twelve,7,$2.99,Marvel,27571
+94,95,Immortal Iron Fist,18,$2.99,Marvel,27416
+95,96,Ghost Rider,26,$2.99,Marvel,27012
+98,102,Eternals,3,$2.99,Marvel,25542
+99,103,Punisher War Journal,22,$2.99,Marvel,25542
+103,111,New Exiles,10,$2.99,Marvel,23036
+104,112,New Exiles,9,$2.99,Marvel,22974
+108,71,Punisher Kills Marvel Universe,0,$4.99,Marvel,22363
+117,97,Ghost Rider Annual,2,$3.99,Marvel,20013
+118,125,Wolverine First Class,6,$2.99,Marvel,19433
+120,105,Genext,4,$3.99,Marvel,18905
+121,127,Last Defenders,6,$2.99,Marvel,18346
+122,108,Iron Fist Origin of Danny Rand,0,$3.99,Marvel,18274
+126,117,Newuniversal Conqueror,0,$3.99,Marvel,16213
+130,128,Criminal 2,4,$3.50,Marvel,15613
+132,144,Amazing Spider-Girl,23,$2.99,Marvel,15147
+136,148,Spider-Man Loves Mary Jane Season 2,1,$2.99,Marvel,14401
+139,113,Amazing Spider-Man Family,1,$4.99,Marvel,13542
+140,116,King Size Spider-Man Summer Special,0,$4.99,Marvel,13408
+143,153,X-Men First Class Vol. 2,15,$2.99,Marvel,13242
+149,159,True Believers,2,$2.99,Marvel,12838
+150,160,Fantastic Four True Story,2,$2.99,Marvel,12817
+151,162,Patsy Walker Hellcat,2,$2.99,Marvel,12807
+159,140,Marvel Comics Presents,12,$3.99,Marvel,11751
+161,142,Angel Revelations,4,$3.99,Marvel,11492
+168,118,Universal War One,2,$5.99,Marvel,10623
+169,149,Haunt of Horror Lovecraft,3,$3.99,Marvel,10302
+185,170,Foolkiller White Angels,2,$3.99,Marvel,8604
+198,188,Dark Tower Long Road Home,1,$3.99,Marvel,7061
+207,191,Secret Invasion,2,$3.99,Marvel,6657
+209,285,Sdcc 2008 Astonishing X-Men,25 Sketch Var,$1.50,Marvel,6543
+211,194,Secret Invasion,3,$3.99,Marvel,6450
+214,223,Marvel Spotlight Spider-Man Brand New Day,0,$2.99,Marvel,6253
+215,224,Skrulls Vs Power Pack,2,$2.99,Marvel,6243
+216,226,Marvel Adventures Super Heroes,2,$2.99,Marvel,5953
+219,228,Marvel Adventures Spider-Man,42,$2.99,Marvel,5715
+224,210,Franklin Richards Summer Smackdown,0,$3.99,Marvel,5622
+226,237,Marvel Adventures Avengers,27,$2.99,Marvel,5197
+231,289,Amazing Spider-Man,568 Toronto Var,$1.80,Marvel,4959
+238,251,Astonishing X-Men,25,$2.99,Marvel,4700
+240,253,Marvel Adventures Hulk,14,$2.99,Marvel,4535
+249,215,Hulk Chronicles,2,$4.99,Marvel,4069
+250,261,Ultimates 3,4,$2.99,Marvel,4007
+255,265,Marvel Adventures Fantastic Four,39,$2.99,Marvel,3831
+256,268,Skaar Son of Hulk,1,$2.99,Marvel,3779
+261,249,Marvel Illustrated Three Musketeers,3,$3.99,Marvel,3603
+266,278,Ultimate Origins,2,$2.99,Marvel,3458
+267,279,Marvel Illustrated Moby Dick,6,$2.99,Marvel,3437
+268,281,Invincible Iron Man,3 2nd Ptg,$2.99,Marvel,3386
+293,307,Guardians of Galaxy,3 2nd Ptg,$2.99,Marvel,2278
+296,311,Captain Britain & M.I. 13,3 2nd Ptg,$2.99,Marvel,2153
+297,312,Bond of Saint Marcel,1,$2.99,Archaia,2153
+1,1,Secret Invasion,6,$3.99,Marvel,164,393
+2,2,Hulk,6,$2.99,Marvel,117,774
+3,5,New Avengers,45,$2.99,Marvel,103,297
+5,7,Mighty Avengers,18,$2.99,Marvel,90,773
+6,9,Ultimates 3,5,$2.99,Marvel,86,826
+7,10,Uncanny X-Men,502,$2.99,Marvel,82,859
+8,3,The Stand: Captain Trips,1,$3.99,Marvel,82,647
+9,4,Dark Tower: Treachery,1,$3.99,Marvel,82,517
+10,11,Amazing Spider-Man,570,$2.99,Marvel,82,456
+12,13,Captain America,42,$2.99,Marvel,75,552
+13,14,Amazing Spider-Man,572,$2.99,Marvel,75,142
+14,15,Amazing Spider-Man,571,$2.99,Marvel,73,661
+17,8,Deadpool,1,$3.99,Marvel,67,399
+18,19,X-Men Legacy,216,$2.99,Marvel,66,415
+19,21,Ultimate Origins,4,$2.99,Marvel,64,934
+20,22,X-Force,7,$2.99,Marvel,64,893
+22,25,Invincible Iron Man,5,$2.99,Marvel,60,427
+23,26,Deadpool,2,$2.99,Marvel,59,833
+24,27,Avengers Initiative,17,$2.99,Marvel,59,020
+25,29,Secret Invasion Thor,2,$2.99,Marvel,58,904
+26,30,Fantastic Four,560,$2.99,Marvel,58,241
+27,31,Secret Invasion X-Men,2,$2.99,Marvel,57,545
+29,33,Ultimate Spider-Man,126,$2.99,Marvel,54,588
+40,20,X-Men Manifest Destiny,1,$3.99,Marvel,49,248
+41,46,Incredible Hercules,121,$2.99,Marvel,47,350
+42,47,Secret Invasion: Amazing Spider-Man,2,$2.99,Marvel,46,790
+44,49,Wolverine Origins,28,$2.99,Marvel,46,544
+45,51,Daredevil,111,$2.99,Marvel,46,291
+46,52,Secret Invasion Inhumans,2,$2.99,Marvel,45,882
+47,24,Ultimate X-Men Fantastic Four Annual,1,$3.99,Marvel,45,424
+49,57,X-Factor,35,$2.99,Marvel,44,468
+50,28,Ultimate Fantastic Four X-Men Annual,1,$3.99,Marvel,44,147
+51,58,Iron Man Director of Shield,33,$2.99,Marvel,43,874
+52,59,Thunderbolts,124,$2.99,Marvel,43,417
+54,60,Secret Invasion Runaways Young Avengers,3,$2.99,Marvel,42,467
+55,62,Guardians of the Galaxy,5,$2.99,Marvel,42,092
+57,66,Secret Invasion Front Line,3,$2.99,Marvel,40,296
+58,67,Ms. Marvel,30,$2.99,Marvel,40,029
+59,69,Young X-Men,6,$2.99,Marvel,38,165
+60,40,Skaar Son of Hulk Presents Savage World,1,$3.99,Marvel,38,158
+61,70,Nova,17,$2.99,Marvel,37,004
+62,72,Civil War House of M,1,$2.99,Marvel,35,072
+63,50,X-Men Magneto Testament,1,$3.99,Marvel,34,853
+65,75,Venom Dark Origin,2,$2.99,Marvel,34,068
+66,53,Marvel Apes,1,$3.99,Marvel,33,672
+67,76,Black Panther,41,$2.99,Marvel,33,611
+68,55,Marvel 1985,5,$3.99,Marvel,33,576
+69,77,Captain Britain & M.I. 13,5,$2.99,Marvel,32,989
+70,78,She-Hulk 2,33,$2.99,Marvel,32,853
+72,80,Ms Marvel,31,$2.99,Marvel,32,136
+76,65,Wolverine Annual,2,$3.99,Marvel,30,442
+77,68,Marvel Apes,2,$3.99,Marvel,29,875
+80,45,Cable King Size Spectacular,1,$4.99,Marvel,29,466
+84,91,Runaways 3,2,$2.99,Marvel,27,950
+87,94,Punisher War Journal,23,$2.99,Marvel,27,376
+88,71,Sub-Mariner Depths,1,$3.99,Marvel,27,267
+89,96,Squadron Supreme 2,3,$2.99,Marvel,27,123
+91,98,Punisher,62,$2.99,Marvel,26,898
+92,56,Wolverine Saudade,0,$4.99,Marvel,26,693
+94,100,Moon Knight,22,$2.99,Marvel,26,372
+95,74,Ms Marvel Annual,1,$3.99,Marvel,25,621
+104,83,X-Men Origin Beast,0,$3.99,Marvel,23,422
+105,112,Ghost Rider,27,$2.99,Marvel,23,395
+106,113,Eternals,4,$2.99,Marvel,23,170
+107,84,Immortal Iron Fist: Orson Randall Death Queen,0,$3.99,Marvel,23,129
+108,115,New Exiles,11,$2.99,Marvel,22,623
+110,118,Age of Sentry,1,$2.99,Marvel,21,975
+113,122,Iron Man Golden Avenger,0,$2.99,Marvel,20,916
+115,95,Nyx No Way Home,2,$3.99,Marvel,20,465
+116,124,New Warriors,16,$2.99,Marvel,20,329
+124,107,Twelve 1/2,0,$3.99,Marvel,18,069
+125,109,Powers,30,$3.95,Marvel,17,980
+128,114,X-Men Return of Magik,0,$3.99,Marvel,17,276
+129,116,Genext,5,$3.99,Marvel,16,860
+132,137,Wolverine First Class,7,$2.99,Marvel,16,163
+134,131,Criminal 2,5,$3.50,Marvel,15,610
+138,146,Amazing Spider-Girl,24,$2.99,Marvel,14,962
+155,134,Big Hero 6,1,$3.99,Marvel,13,022
+157,162,X-Men First Class Vol. 2,16,$2.99,Marvel,12,838
+158,104,Samurai Legend,1,$5.99,Marvel,12,421
+165,169,Patsy Walker Hellcat,3,$2.99,Marvel,12,210
+167,176,Spider-Man Loves Mary Jane Season 2,2,$2.99,Marvel,11,636
+170,180,Fantastic Four True Story,3,$2.99,Marvel,11,192
+172,184,True Believers,3,$2.99,Marvel,10,803
+176,154,Angel Revelations,5,$3.99,Marvel,10,639
+178,157,Dead of Night Devil Slayer,1,$3.99,Marvel,10,209
+180,125,Universal War One,3,$5.99,Marvel,9,929
+192,173,Uncanny X-Men,500,$3.99,Marvel,8,918
+200,189,Foolkiller White Angels,3,$3.99,Marvel,7,955
+207,218,Wolverine,67,$2.99,Marvel,7,587
+210,223,Wolverine,66,$2.99,Marvel,7,300
+211,170,Kick Ass Must Have,0,$4.99,Marvel,7,238
+217,202,Amazing Spider-Man,568,$3.99,Marvel,6,965
+226,236,Marvel Spotlight Marvel Knights 10th Anniversary,0,$2.99,Marvel,5,934
+228,241,Hulk,5,$2.99,Marvel,5,757
+232,246,Skrulls Vs. Power Pack,3,$2.99,Marvel,5,661
+237,250,Marvel Adventures Spider-Man,43,$2.99,Marvel,5,504
+242,295,Secret Invasion,6,$2.00,Marvel,4,999
+243,260,Secret Invasion Inhumans,1,$2.99,Marvel,4,971
+245,262,Marvel Adventures Avengers,28,$2.99,Marvel,4,964
+247,266,Marvel Adventures Super Heroes,3,$2.99,Marvel,4,855
+248,269,Secret Invasion Thor,1,$2.99,Marvel,4,753
+250,233,Marvel Illustrated Odyssey,1,$3.99,Marvel,4,534
+254,239,Secret Invasion,3,$3.99,Marvel,4,343
+255,275,Marvel Adventures Hulk,15,$2.99,Marvel,4,343
+260,225,Punisher Kills Marvel Universe,0,$4.99,Marvel,4,227
+263,280,X-Force,5 2nd Ptg,$2.99,Marvel,4,159
+267,285,Secret Invasion X-Men,1,$2.99,Marvel,3,872
+270,339,Giant Size Spider-Man Classics Power & Responsibility,0,$1.50,Marvel,3,804
+273,287,Marvel Adventures Fantastic Four,40,$2.99,Marvel,3,715
+275,288,Black Panther,39 2nd Ptg,$2.99,Marvel,3,646
+284,274,Marvel Illustrated Three Musketeers,4,$3.99,Marvel,3,305
+288,302,Ultimate Origins,3,$2.99,Marvel,3,175
+289,258,Hulk Chronicles,3,$4.99,Marvel,3,087
+293,308,She-Hulk 2,31,$2.99,Marvel,3,025
+296,283,Dark Tower: Long Road Home,1,$3.99,Marvel,2,943
+1,1,Secret Invasion,7,$3.99,Marvel,154656
+3,3,Hulk,7,$2.99,Marvel,110247
+5,8,New Avengers,46,$2.99,Marvel,99501
+6,11,Mighty Avengers,19,$2.99,Marvel,87248
+7,12,Astonishing X-Men,27,$2.99,Marvel,86759
+8,4,Amazing Spider-Man,573,$3.99,Marvel,82540
+9,16,Uncanny X-Men,503,$2.99,Marvel,81064
+11,17,Thor,11,$2.99,Marvel,78663
+14,23,Captain America,43,$2.99,Marvel,72396
+16,9,Astonishing X-Men Ghost Boxes,1,$3.99,Marvel,69601
+17,27,Amazing Spider-Man,574,$2.99,Marvel,69060
+18,28,Amazing Spider-Man,575,$2.99,Marvel,68904
+19,30,X-Men Legacy,217,$2.99,Marvel,65880
+21,10,Dark Tower Treachery,2,$3.99,Marvel,65724
+22,13,Stand Captain Trips,2,$3.99,Marvel,64436
+24,15,Marvel Zombies 3,1,$3.99,Marvel,64186
+25,32,Avengers Invaders,5,$2.99,Marvel,63750
+27,35,Avengers Initiative,18,$2.99,Marvel,61151
+28,36,Ultimate Origins,5,$2.99,Marvel,61037
+29,37,X-Force,8,$2.99,Marvel,59738
+30,38,Wolverine Origins,29,$2.99,Marvel,58834
+31,39,Deadpool,3,$2.99,Marvel,58553
+33,20,Amazing Spider-Man Annual,1,$3.99,Marvel,57472
+36,22,X-Men Original Sin,1,$3.99,Marvel,54885
+38,44,Secret Invasion Thor,3,$2.99,Marvel,53731
+40,46,Invincible Iron Man,6,$2.99,Marvel,53326
+42,48,Ultimate Spider-Man,127,$2.99,Marvel,52577
+43,49,Secret Invasion X-Men,3,$2.99,Marvel,51559
+45,29,Ultimate Captain America Annual,1,$3.99,Marvel,50052
+50,33,Ultimate Spider-Man Annual,3,$3.99,Marvel,47765
+55,59,Daredevil,112,$2.99,Marvel,46196
+57,61,Secret Invasion Inhumans,3,$2.99,Marvel,44315
+58,62,Skaar Son of Hulk,4,$2.99,Marvel,44305
+59,63,Cable,7,$2.99,Marvel,43452
+60,64,Incredible Hercules,122,$2.99,Marvel,42870
+61,66,Secret Invasion Amazing Spider-Man,3,$2.99,Marvel,42247
+62,41,Thor Truth of History,1,$3.99,Marvel,42133
+63,67,Iron Man Director of Shield,34,$2.99,Marvel,42018
+64,70,Thunderbolts,125,$2.99,Marvel,41353
+67,71,Wolverine Manifest Destiny,1,$2.99,Marvel,40137
+69,47,X-Men Manifest Destiny,2,$3.99,Marvel,39628
+70,74,X-Factor,36,$2.99,Marvel,38547
+71,75,Nova,18,$2.99,Marvel,38412
+72,78,Guardians of Galaxy,6,$2.99,Marvel,36541
+73,79,Young X-Men,7,$2.99,Marvel,36479
+74,81,Secret Invasion Front Line,4,$2.99,Marvel,35554
+79,88,Punisher War Journal,24,$2.99,Marvel,31781
+80,65,Captain America Theater of War Operation Zero Point,0,$3.99,Marvel,31698
+81,68,Marvel 1985,6,$3.99,Marvel,31407
+82,69,X-Men Worlds Apart,1,$3.99,Marvel,31230
+87,95,Civil War House of M,2,$2.99,Marvel,29495
+90,97,Venom Dark Origin,3,$2.99,Marvel,28715
+95,76,Hulk Monster Size Special,1,$3.99,Marvel,28040
+96,103,Captain Britain and M.I. 13,6,$2.99,Marvel,28029
+100,77,X-Men Magneto Testament,2,$3.99,Marvel,27468
+102,80,Ghost Rider,28,$3.99,Marvel,26990
+105,112,Twelve,8,$2.99,Marvel,25982
+106,113,Punisher Max,63,$2.99,Marvel,25930
+107,114,Ms Marvel,32,$2.99,Marvel,25889
+108,115,Immortal Iron Fist,19,$2.99,Marvel,25857
+109,116,Runaways 3,3,$2.99,Marvel,25753
+110,83,Enders Game Battle School,1,$3.99,Marvel,25421
+111,117,Moon Knight,23,$2.99,Marvel,25213
+114,86,Marvel Apes,3,$3.99,Marvel,24506
+120,126,Eternals,5,$2.99,Marvel,23415
+122,128,She-Hulk 2,34,$2.99,Marvel,22760
+123,91,Anita Blake Vampire Hunter Laughing Corpse,1,$3.99,Marvel,22490
+124,129,Squadron Supreme 2,4,$2.99,Marvel,22428
+125,94,Ghost Rider Danny Ketch,1,$3.99,Marvel,22116
+127,134,New Exiles,12,$2.99,Marvel,21679
+128,98,Marvel Apes,4,$3.99,Marvel,21440
+131,138,New Exiles,13,$2.99,Marvel,21056
+132,107,Sub-Mariner Depths,2,$3.99,Marvel,20651
+136,118,Amazing Spider-Girl,25,$3.99,Marvel,18780
+137,142,New Warriors,17,$2.99,Marvel,18686
+143,131,Nyx No Way Home,3,$3.99,Marvel,16493
+152,148,Criminal 2,6,$3.50,Marvel,15132
+154,163,Age of Sentry,2,$2.99,Marvel,15101
+156,165,Wolverine First Class,8,$2.99,Marvel,14934
+165,150,X-Men First Class Giant Size Special,1,$3.99,Marvel,13261
+189,151,Amazing Spider-Man Family,2,$4.99,Marvel,10559
+207,144,Samurai Legend,2,$5.99,Marvel,9125
+208,229,Spider-Man Loves Mary Jane Season 2,3,$2.99,Marvel,9052
+211,231,True Believers,4,$2.99,Marvel,8927
+216,236,Amazing Spider-Man 569 2nd Ptg,$2.99,Marvel,8481
+217,194,Big Hero 6,2,$3.99,Marvel,8408
+219,198,Dead of Night Devil Slayer,2,$3.99,Marvel,8262
+223,153,March On Ultimatum Saga (Bundle of 25) (Net),0,$6.25,Marvel,8138
+227,208,Deadpool 1 2nd Ptg,$3.99,Marvel,7639
+231,214,Foolkiller White Angels,4,$3.99,Marvel,7431
+239,258,Amazing Spider-Man 570 2nd Ptg,$2.99,Marvel,7036
+243,264,Marvel Spotlight Ultimatum,0,$2.99,Marvel,6818
+247,267,Amazing Spider-Man 571,$2.99,Marvel,6496
+251,269,Kick Ass 2 3rd Ptg,$2.99,Marvel,6350
+256,348,Uncanny X-Men 503 DCD Sketch Var,$1.50,Marvel,6121
+261,277,Wolverine 68 2nd Ptg,$2.99,Marvel,5914
+262,278,Kick Ass 1 3rd Ptg,$2.99,Marvel,5841
+265,280,Kick Ass 4 2nd Ptg,$2.99,Marvel,5654
+267,284,Deadpool 2,$2.99,Marvel,5550
+271,270,Red Mass For Mars 2,$3.50,Image,5290
+273,291,Skrulls Vs Power Pack 4,$2.99,Marvel,5290
+275,295,Morlocks 4,$2.99,Marvel,5155
+276,296,George R R Martins Wild Cards 4,$2.99,Dabel,5155
+283,299,Kick Ass 3 3rd Ptg,$2.99,Marvel,4905
+286,302,Morlocks 5,$2.99,Marvel,4843
+293,307,Amazing Spider-Man 572 2nd Ptg,$2.99,Marvel,4646
+295,310,Morlocks 6,$2.99,Marvel,4542
+1,1,Ultimatum,1,$3.99,Marvel,114208
+3,6,Hulk,8,$2.99,Marvel,90759
+4,7,Wolverine,69,$2.99,Marvel,88893
+5,9,Uncanny X-Men,504,$2.99,Marvel,77758
+6,3,Amazing Spider-Man,577,$3.99,Marvel,76610
+7,13,Captain America,44,$2.99,Marvel,75478
+12,18,Amazing Spider-Man,576,$2.99,Marvel,68943
+13,20,Amazing Spider-Man,578,$2.99,Marvel,66551
+15,21,X-Men Legacy,218,$2.99,Marvel,63500
+16,23,Fantastic Four,561,$2.99,Marvel,61319
+18,10,Dark Tower Treachery,3,$3.99,Marvel,58268
+19,26,X-Force,9,$2.99,Marvel,57230
+22,27,Avengers Invaders,6,$2.99,Marvel,56213
+25,16,Stand Captain Trips,3,$3.99,Marvel,55066
+26,30,Ultimate Spider-Man,128,$2.99,Marvel,52177
+28,32,Wolverine Origins,30,$2.99,Marvel,50349
+29,33,Deadpool,4,$2.99,Marvel,49567
+30,34,Invincible Iron Man,7,$2.99,Marvel,49346
+31,22,Marvel Zombies 3,2,$3.99,Marvel,47243
+32,37,Secret Invasion X-Men,4,$2.99,Marvel,46985
+33,38,Ultimate X-Men,98,$2.99,Marvel,46437
+37,24,Thor Man of War,,,$3.99,Marvel,43918
+43,47,Daredevil,113,$2.99,Marvel,41192
+44,48,Secret Invasion Inhumans,4,$2.99,Marvel,41154
+45,50,Iron Man Director of Shield,35,$2.99,Marvel,41051
+46,29,Avengers Initiative Special,,,$3.99,Marvel,40056
+49,54,Cable,8,$2.99,Marvel,37308
+51,35,X-Men Manifest Destiny,3,$3.99,Marvel,35878
+52,56,Incredible Hercules,123,$2.99,Marvel,35773
+53,57,X-Factor,37,$2.99,Marvel,35747
+54,58,Ultimate Fantastic Four,58,$2.99,Marvel,34988
+55,59,Skaar Son of Hulk,5,$2.99,Marvel,34772
+57,61,Thunderbolts,126,$2.99,Marvel,34633
+60,49,X-Men Spider-Man,1,$3.99,Marvel,30768
+61,66,Guardians of Galaxy,7,$2.99,Marvel,30510
+62,67,Young X-Men,8,$2.99,Marvel,30231
+63,51,Punisher War Journal,25,$3.99,Marvel,29976
+64,36,Iron Man End,,,$4.99,Marvel,28502
+66,71,Nova,19,$2.99,Marvel,28301
+74,80,Venom Dark Origin,4,$2.99,Marvel,25434
+76,83,Punisher Max,64,$2.99,Marvel,24656
+77,63,Weapon X First Class,1,$3.99,Marvel,24573
+78,64,X-Men Magneto Testament,3,$3.99,Marvel,24551
+79,84,Wolverine Chop Shop,,,$2.99,Marvel,24482
+80,86,Civil War House of M,3,$2.99,Marvel,24203
+81,87,Ghost Rider,29,$2.99,Marvel,24201
+84,90,Ms Marvel,33,$2.99,Marvel,23976
+85,91,Moon Knight,24,$2.99,Marvel,23943
+88,52,Daredevil & Captain America Dead On Arrival,,,$4.99,Marvel,23619
+89,93,Runaways 3,4,$2.99,Marvel,23492
+95,105,Captain Britain and M.I. 13,7,$2.99,Marvel,22185
+98,69,X-Men Worlds Apart,2,$3.99,Marvel,21515
+101,111,She-Hulk 2,35,$2.99,Marvel,20936
+103,74,Punisher War Journal Annual,1,$3.99,Marvel,20713
+104,113,New Exiles,14,$2.99,Marvel,20489
+105,115,Squadron Supreme 2,5,$2.99,Marvel,19830
+109,85,Ghost Rider Danny Ketch,2,$3.99,Marvel,18256
+111,121,Ms Marvel Special Storyteller,,,$2.99,Marvel,17738
+114,123,New Warriors,18,$2.99,Marvel,17382
+115,97,Adam Legend of Blue Marvel,1,$3.99,Marvel,17305
+116,98,Anita Blake Vampire Hunter Laughing Corpse,2,$3.99,Marvel,17183
+118,102,Eternals Annual,1,$3.99,Marvel,16912
+119,103,Sub-Mariner Depths,3,$3.99,Marvel,16902
+120,104,Enders Game Battle School,2,$3.99,Marvel,16767
+123,108,X-Men Pixies & Demons Directors Cut,,,$3.99,Marvel,15940
+128,134,Amazing Spider-Girl,26,$2.99,Marvel,14386
+132,140,Wolverine First Class,9,$2.99,Marvel,13854
+139,151,Age of Sentry,3,$2.99,Marvel,12425
+173,192,Fantastic Four True Story,4,$2.99,Marvel,8479
+176,197,True Believers,5,$2.99,Marvel,8216
+177,198,Spider-Man Loves Mary Jane Season 2,4,$2.99,Marvel,8112
+179,81,Marvels Greatest Collections 2009 (Bundle of 25) (Net),,$10.00,Marvel,7568
+180,82,Wonderful Wizard of Oz Sketchbook (Bundle of 25) (Net),,$10.00,Marvel,7552
+184,208,Avengers Fairy Tales,4,$2.99,Marvel,7244
+188,139,Samurai Legend,3,$5.99,Marvel,6921
+189,181,Foolkiller White Angels,5,$3.99,Marvel,6915
+191,182,Dead of Night Devil Slayer,3,$3.99,Marvel,6854
+205,194,Big Hero 6,3,$3.99,Marvel,6290
+208,225,Wolverine Power Pack,1,$2.99,Marvel,5983
+220,211,Franklin Richards Sons of Geniuses,,,$3.99,Marvel,5313
+224,238,Marvel Adventures Spider-Man,45,$2.99,Marvel,5002
+230,242,Marvel Adventures Avengers,30,$2.99,Marvel,4678
+235,251,Marvel Spotlight Punisher Movie,,,$2.99,Marvel,4341
+239,258,Marvel Adventures Super Heroes,5,$2.99,Marvel,4232
+250,235,Marvel Zombies 3,1,$3.99,Marvel,3804
+253,239,Marvel Illustrated Odyssey,3,$3.99,Marvel,3630
+255,210,Kabuki Reflections,11,$5.99,Marvel,3564
+257,276,Marvel Adventures Fantastic Four,42,$2.99,Marvel,3522
+262,280,Wolverine Origins,28 2nd Ptg Var,$2.99,Marvel,3392
+267,283,Deadpool,3 2nd Ptg,$2.99,Marvel,3272
+274,262,Marvel Illustrated Kidnapped,1,$3.99,Marvel,2993
+278,265,Marvel Illustrated Three Musketeers,6,$3.99,Marvel,2942
+295,288,Spider-Man Brand New Day,2,$3.99,Marvel,2354
+1,1,Secret Invasion,8,$3.99,Marvel,152408
+3,3,Secret Invasion Dark Reign,0,$3.99,Marvel,102913
+4,5,New Avengers,47,$2.99,Marvel,95689
+5,6,New Avengers,48,$2.99,Marvel,93895
+8,10,Hulk,9,$2.99,Marvel,87774
+9,11,Mighty Avengers,20,$2.99,Marvel,86073
+10,4,Ultimatum,2,$3.99,Marvel,85615
+11,13,Wolverine,70,$2.99,Marvel,83344
+12,14,Uncanny X-Men,505,$2.99,Marvel,82260
+15,19,Thor,12,$2.99,Marvel,73774
+18,23,Captain America,45,$2.99,Marvel,71176
+19,24,Amazing Spider-Man,579,$2.99,Marvel,69774
+21,26,Amazing Spider-Man,581,$2.99,Marvel,68896
+22,8,Dark Reign New Nation,0,$3.99,Marvel,68475
+26,12,Secret Invasion Requiem,1,$3.99,Marvel,63456
+27,34,Amazing Spider-Man,580,$2.99,Marvel,62970
+28,35,X-Men Legacy,219,$2.99,Marvel,60578
+29,36,X-Force,10,$2.99,Marvel,58793
+30,16,Astonishing X-Men Ghost Boxes,2,$3.99,Marvel,57868
+32,39,Invincible Iron Man,8,$2.99,Marvel,56700
+35,42,Fantastic Four,562,$2.99,Marvel,54055
+36,22,Dark Tower Treachery,4,$3.99,Marvel,53728
+37,43,Avengers Initiative,19,$2.99,Marvel,52550
+38,44,Avengers Invaders,7,$2.99,Marvel,52186
+39,46,Avengers Initiative,20,$2.99,Marvel,51223
+40,47,Ultimate Spider-Man,129,$2.99,Marvel,51064
+41,49,Kick Ass,5,$2.99,Marvel,50522
+43,51,War Machine,1,$2.99,Marvel,49746
+45,30,Stand Captain Trips,4,$3.99,Marvel,49204
+46,33,X-Infernus,1,$3.99,Marvel,48410
+47,54,Deadpool,5,$2.99,Marvel,46849
+50,57,Wolverine Origins,31,$2.99,Marvel,45036
+51,58,Ultimate X-Men,99,$2.99,Marvel,44354
+52,59,Daredevil,114,$2.99,Marvel,44345
+54,37,Ultimate Hulk Annual,1,$3.99,Marvel,43373
+55,40,Marvel Zombies 3,3,$3.99,Marvel,41831
+62,45,Thor God Sized,1,$3.99,Marvel,38728
+63,48,Marvels Eye of Camera,1,$3.99,Marvel,37971
+65,72,Incredible Hercules,124,$2.99,Marvel,36850
+67,52,Punisher War Zone,1,$3.99,Marvel,36420
+68,53,X-Men Kingbreaker,1,$3.99,Marvel,36382
+69,77,Thunderbolts,127,$2.99,Marvel,36373
+71,81,Skaar Son of Hulk,6,$2.99,Marvel,34588
+72,82,Cable,9,$2.99,Marvel,34523
+73,83,X-Factor,38,$2.99,Marvel,34420
+74,85,Ultimate Fantastic Four,59,$2.99,Marvel,34009
+75,86,Wolverine Manifest Destiny,2,$2.99,Marvel,33569
+76,60,X-Men Noir,1,$3.99,Marvel,33121
+77,62,X-Men Manifest Destiny,4,$3.99,Marvel,32560
+78,88,Secret Invasion Front Line,5,$2.99,Marvel,32504
+81,63,Spider-Man Noir,1,$3.99,Marvel,31981
+82,92,Guardians of Galaxy,8,$2.99,Marvel,31560
+83,95,What If Captain America Fallen Son,0,$2.99,Marvel,30868
+84,96,Young X-Men,9,$2.99,Marvel,30504
+85,99,Ms Marvel,34,$2.99,Marvel,29766
+86,69,Punisher War Zone,2,$3.99,Marvel,29738
+87,101,Nova,20,$2.99,Marvel,29401
+88,102,Wolverine Manifest Destiny,3,$2.99,Marvel,29233
+89,71,Punisher War Zone,3,$3.99,Marvel,28420
+92,75,Punisher War Zone,4,$3.99,Marvel,27345
+93,76,What If Secret Wars,0,$3.99,Marvel,27336
+94,78,Marvels Eye of Camera,2,$3.99,Marvel,27252
+95,108,What If Spider-Man Back In Black,0,$2.99,Marvel,27224
+98,79,What If House of M,0,$3.99,Marvel,26775
+100,84,X-Men Spider-Man,2,$3.99,Marvel,25569
+101,113,Ghost Rider,30,$2.99,Marvel,25504
+104,116,Immortal Iron Fist,20,$2.99,Marvel,24962
+108,87,What If Newer Fantastic Four,0,$3.99,Marvel,24467
+109,120,Immortal Iron Fist,21,$2.99,Marvel,24130
+112,91,X-Men Worlds Apart,3,$3.99,Marvel,23925
+113,123,Punisher Max,65,$2.99,Marvel,23878
+115,127,Moon Knight,25,$2.99,Marvel,23280
+116,128,Venom Dark Origin,5,$2.99,Marvel,23065
+118,133,Civil War House of M,4,$2.99,Marvel,22570
+121,137,Punisher War Journal,26,$2.99,Marvel,22420
+124,100,X-Men Magneto Testament,4,$3.99,Marvel,22046
+125,74,Captain America Theater of War America First,0,$4.99,Marvel,21981
+126,139,Runaways 3,5,$2.99,Marvel,21915
+127,103,Wolverine Flies To A Spider,0,$3.99,Marvel,21887
+129,104,Punisher Max X-Mas Special 2008,0,$3.99,Marvel,21242
+130,143,Captain Britain & M.I. 13,8,$2.99,Marvel,21233
+133,106,Wonderful Wizard of Oz,1,$3.99,Marvel,20532
+136,111,Iron Man Hulk Fury One Shot,0,$3.99,Marvel,19859
+137,148,She-Hulk 2,36,$2.99,Marvel,19813
+138,149,New Exiles,15,$2.99,Marvel,19495
+141,134,Incognito,1,$3.50,Marvel,19280
+142,152,New Exiles,16,$2.99,Marvel,19224
+143,154,Squadron Supreme 2,6,$2.99,Marvel,18943
+144,94,Hulk Family Green Genes,1,$4.99,Marvel,18588
+146,156,Eternals,6,$2.99,Marvel,18130
+148,98,Fantastic Four Cosmic Special,0,$4.99,Marvel,17878
+150,126,Moon Knight Silent Knight,1,$3.99,Marvel,17644
+154,129,New Exiles Annual,1,$3.99,Marvel,17233
+156,130,Ghost Rider Danny Ketch,3,$3.99,Marvel,17140
+159,136,Weapon X First Class,2,$3.99,Marvel,16859
+162,142,She Hulk Cosmic Collision,0,$3.99,Marvel,16046
+164,176,New Warriors,19,$2.99,Marvel,15822
+166,144,Anita Blake Vampire Hunter Laughing Corpse,3,$3.99,Marvel,15663
+168,181,Amazing Spider-Girl,27,$2.99,Marvel,15373
+170,146,Enders Shadow Battle School,1,$3.99,Marvel,15149
+173,165,Criminal 2,7,$3.50,Marvel,14701
+181,198,Wolverine First Class,10,$2.99,Marvel,13439
+182,159,Nyx No Way Home,4,$3.99,Marvel,13308
+191,171,Adam Legend of Blue Marvel,2,$3.99,Marvel,12159
+207,188,Marvel Apes,0,$3.99,Marvel,10803
+220,234,Age of Sentry,4,$2.99,Marvel,9775
+236,250,Patsy Walker Hellcat,4,$2.99,Marvel,8626
+237,163,Samurai Legend,4,$5.99,Marvel,8626
+244,261,Marvel Spotlight Secret Invasion Aftermath,0,$2.99,Marvel,8084
+247,178,Ythaq Forsaken World,1,$5.99,Marvel,7794
+248,203,Amazing Spider-Man Family,3,$4.99,Marvel,7710
+250,267,Spider-Man Loves Mary Jane Season 2,5,$2.99,Marvel,7458
+264,218,Spider-Man Brand New Day Yearbook,0,$4.99,Marvel,6523
+266,251,Dead of Night Devil Slayer,4,$3.99,Marvel,6364
+280,269,X-Men Worlds Apart,2 (reorder),$3.99,Marvel,5458
+284,273,Big Hero 6,4,$3.99,Marvel,5327
+287,305,Wolverine Power Pack,2,$2.99,Marvel,5149
+292,286,Lords of Avalon Knights of Darkness,1,$3.99,Marvel,4878
+294,310,Marvel Adventures Spider-Man,46,$2.99,Marvel,4850
