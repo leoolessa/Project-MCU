@@ -1,0 +1,556 @@
+Comic_ID,Publish Date,Comic-book Title,Price,Publisher,Est. units,Total
+0,2010,Avengers,3.99,Marvel,175100.0,698649.0
+1,2010,X-Men,3.99,Marvel,144700.0,577353.0
+2,2010,Siege,3.99,Marvel,137700.0,549423.0
+3,2010,New Avengers,3.99,Marvel,132500.0,528675.0
+4,2010,Siege,3.99,Marvel,120200.0,479598.0
+5,2010,Siege,3.99,Marvel,117900.0,470421.0
+6,2010,Siege,3.99,Marvel,115300.0,460047.0
+7,2010,Secret Avengers,3.99,Marvel,115100.0,459249.0
+8,2010,Wolverine,3.99,Marvel,107700.0,429723.0
+9,2010,Avengers,3.99,Marvel,103000.0,410970.0
+10,2010,Uncanny X-Force,3.99,Marvel,100100.0,399399.0
+11,2010,Avengers,3.99,Marvel,90500.0,361095.0
+12,2010,Avengers,3.99,Marvel,90100.0,359499.0
+13,2010,Avengers,3.99,Marvel,90000.0,359100.0
+14,2010,Captain America Reborn,3.99,Marvel,88900.0,354711.0
+15,2010,New Avengers,3.99,Marvel,85800.0,342342.0
+16,2010,Avengers,3.99,Marvel,83500.0,333165.0
+17,2010,New Avengers Finale,4.99,Marvel,82700.0,412673.0
+18,2010,New Avengers,3.99,Marvel,82400.0,328776.0
+19,2010,Uncanny X-Men,2.99,Marvel,82300.0,246077.00000000003
+20,2010,Uncanny X-Men,2.99,Marvel,82100.0,245479.00000000003
+21,2010,Secret Avengers,3.99,Marvel,81100.0,323589.0
+22,2010,New Avengers,3.99,Marvel,80500.0,321195.0
+23,2010,Amazing Spider-Man,3.99,Marvel,78500.0,313215.0
+24,2010,Dark Avengers,3.99,Marvel,78300.0,312417.0
+25,2010,New Avengers,3.99,Marvel,78100.0,311619.0
+26,2010,X-Men Second Coming,3.99,Marvel,78000.0,311220.0
+27,2010,Invincible Iron Man,3.99,Marvel,77900.0,310821.0
+28,2010,New Avengers,3.99,Marvel,77600.0,309624.0
+29,2010,Amazing Spider-Man,3.99,Marvel,77500.0,309225.0
+30,2010,New Avengers,3.99,Marvel,77200.0,308028.0
+31,2010,New Avengers,3.99,Marvel,76900.0,306831.0
+32,2010,Dark Avengers,3.99,Marvel,76600.0,305634.0
+33,2010,Secret Avengers,3.99,Marvel,76400.0,304836.0
+34,2010,Uncanny X-Men,2.99,Marvel,76200.0,227838.00000000003
+35,2010,Ultimate Comics New Ultimates,3.99,Marvel,75600.0,301644.0
+36,2010,Secret Avengers,3.99,Marvel,75000.0,299250.0
+37,2010,Amazing Spider-Man,3.99,Marvel,74200.0,296058.0
+38,2010,Avengers Prime,3.99,Marvel,74100.0,295659.0
+39,2010,Avengers,3.99,Marvel,74100.0,295659.0
+40,2010,X-Men,3.99,Marvel,74000.0,295260.0
+41,2010,New Avengers,3.99,Marvel,73800.0,294462.0
+42,2010,Dark Avengers,3.99,Marvel,73400.0,292866.0
+43,2010,Kick-Ass 2,2.99,Marvel,73300.0,219167.00000000003
+44,2010,Dark Avengers,3.99,Marvel,71900.0,286881.0
+45,2010,X-Force,2.99,Marvel,71800.0,214682.00000000003
+46,2010,X-Men Legacy,2.99,Marvel,70600.0,211094.00000000003
+47,2010,Secret Avengers,3.99,Marvel,70100.0,279699.0
+48,2010,Amazing Spider-Man,3.99,Marvel,69800.0,278502.0
+49,2010,Uncanny X-Men,3.99,Marvel,69500.0,277305.0
+50,2010,Uncanny X-Men,3.99,Marvel,69300.0,276507.0
+51,2010,Secret Avengers,3.99,Marvel,69300.0,276507.0
+52,2010,Ultimate Comics X,3.99,Marvel,69000.0,275310.0
+53,2010,Amazing Spider-Man,3.99,Marvel,68800.0,274512.0
+54,2010,X-Men Legacy,2.99,Marvel,68800.0,205712.00000000003
+55,2010,Thor,2.99,Marvel,68500.0,204815.00000000003
+56,2010,X-Men,3.99,Marvel,68400.0,272916.0
+57,2010,Uncanny X-Men,2.99,Marvel,68400.0,204516.00000000003
+58,2010,New Avengers,3.99,Marvel,67800.0,270522.0
+59,2010,Amazing Spider-Man,3.99,Marvel,67500.0,269325.0
+60,2010,Uncanny X-Men,3.99,Marvel,67400.0,268926.0
+61,2010,Nemesis,2.99,Marvel,67400.0,201526.0
+62,2010,Avengers,3.99,Marvel,67200.0,268128.0
+63,2010,New Avengers,3.99,Marvel,67100.0,267729.0
+64,2010,Uncanny X-Men,2.99,Marvel,66700.0,199433.0
+65,2010,Ultimate Comics Avengers 2,3.99,Marvel,66700.0,266133.0
+66,2010,X-Men Second Coming,3.99,Marvel,66700.0,266133.0
+67,2010,Amazing Spider-Man,2.99,Marvel,66600.0,199134.0
+68,2010,Thor,2.99,Marvel,66500.0,198835.0
+69,2010,X-Force,2.99,Marvel,66200.0,197938.0
+70,2010,X-Men Legacy,2.99,Marvel,66100.0,197639.0
+71,2010,Wolverine,3.99,Marvel,65200.0,260148.0
+72,2010,Captain America,3.99,Marvel,65100.0,259749.0
+73,2010,X-Men,3.99,Marvel,65000.0,259350.0
+74,2010,Captain America,3.99,Marvel,64500.0,257355.0
+75,2010,Amazing Spider-Man,3.99,Marvel,64300.0,256557.0
+76,2010,X-Force,2.99,Marvel,64000.0,191360.0
+77,2010,Shadowland,3.99,Marvel,63100.0,251769.0
+78,2010,Thor,2.99,Marvel,62900.0,188071.0
+79,2010,Amazing Spider-Man,2.99,Marvel,62800.0,187772.0
+80,2010,Uncanny X-Men,3.99,Marvel,62800.0,250572.0
+81,2010,Uncanny X-Men,3.99,Marvel,62600.0,249774.0
+82,2010,Amazing Spider-Man,2.99,Marvel,62100.0,185679.0
+83,2010,Thor,2.99,Marvel,61800.0,184782.0
+84,2010,Amazing Spider-Man,2.99,Marvel,61200.0,182988.0
+85,2010,Amazing Spider-Man,2.99,Marvel,60600.0,181194.0
+86,2010,Secret Avengers,3.99,Marvel,60400.0,240996.0
+87,2010,Amazing Spider-Man,2.99,Marvel,60300.0,180297.0
+88,2010,Captain America,3.99,Marvel,60000.0,239400.0
+89,2010,Astonishing Spider-Man Wolverine,3.99,Marvel,59700.0,238203.0
+90,2010,Amazing Spider-Man,3.99,Marvel,59300.0,236607.0
+91,2010,Amazing Spider-Man,2.99,Marvel,58700.0,175513.0
+92,2010,Amazing Spider-Man,2.99,Marvel,58600.0,175214.0
+93,2010,Amazing Spider-Man,3.99,Marvel,58500.0,233415.0
+94,2010,Amazing Spider-Man,2.99,Marvel,58500.0,174915.0
+95,2010,Uncanny X-Men,3.99,Marvel,58400.0,233016.0
+96,2010,Amazing Spider-Man,3.99,Marvel,58300.0,232617.0
+97,2010,Amazing Spider-Man,3.99,Marvel,58300.0,232617.0
+98,2010,Ultimate Comics Avengers,3.99,Marvel,58300.0,232617.0
+99,2010,Amazing Spider-Man,2.99,Marvel,58200.0,174018.0
+100,2010,Amazing Spider-Man,2.99,Marvel,58200.0,174018.0
+101,2010,Uncanny X-Force,3.99,Marvel,58200.0,232218.0
+102,2010,Amazing Spider-Man,2.99,Marvel,58000.0,173420.0
+103,2010,Astonishing X-Men,2.99,Marvel,58000.0,173420.0
+104,2010,Captain America,3.99,Marvel,57900.0,231021.0
+105,2010,Hulk,3.99,Marvel,57700.0,230223.0
+106,2010,Amazing Spider-Man,2.99,Marvel,57700.0,172523.0
+107,2010,Captain America,3.99,Marvel,57700.0,230223.0
+108,2010,Wolverine Best There Is,3.99,Marvel,57300.0,228627.0
+109,2010,Thor,2.99,Marvel,57100.0,170729.0
+110,2010,X-Men,3.99,Marvel,57000.0,227430.0
+111,2010,Amazing Spider-Man,2.99,Marvel,56900.0,170131.0
+112,2010,Siege Embedded,3.99,Marvel,56600.0,225834.0
+113,2010,Amazing Spider-Man,2.99,Marvel,56500.0,168935.0
+114,2010,Thor,3.99,Marvel,56500.0,225435.0
+115,2010,Astonishing X-Men Xenogenesis,3.99,Marvel,56400.0,225036.0
+116,2010,Amazing Spider-Man,3.99,Marvel,56000.0,223440.0
+117,2010,Amazing Spider-Man,3.99,Marvel,56000.0,223440.0
+118,2010,Amazing Spider-Man,4.99,Marvel,55900.0,278941.0
+119,2010,Ultimate Comics New Ultimates,3.99,Marvel,55900.0,223041.0
+120,2010,Uncanny X-Men,3.99,Marvel,55900.0,223041.0
+121,2010,Avengers Prime,3.99,Marvel,55800.0,222642.0
+122,2010,Amazing Spider-Man,2.99,Marvel,55600.0,166244.0
+123,2010,Thor,3.99,Marvel,55600.0,221844.0
+124,2010,Uncanny X-Force,3.99,Marvel,55500.0,221445.0
+125,2010,Dark Wolverine,2.99,Marvel,55400.0,165646.0
+126,2010,Amazing Spider-Man,2.99,Marvel,55100.0,164749.0
+127,2010,Steve Rogers Super-Soldier,3.99,Marvel,55100.0,219849.0
+128,2010,Hulk,3.99,Marvel,55100.0,219849.0
+129,2010,Dark Wolverine,2.99,Marvel,54900.0,164151.0
+130,2010,Siege Captain America,2.99,Marvel,54900.0,164151.0
+131,2010,Amazing Spider-Man,2.99,Marvel,54900.0,164151.0
+132,2010,Amazing Spider-Man,2.99,Marvel,54700.0,163553.0
+133,2010,New Mutants,2.99,Marvel,54600.0,163254.0
+134,2010,Invincible Iron Man,2.99,Marvel,54300.0,162357.0
+135,2010,Ultimate Comics Avengers,3.99,Marvel,54300.0,216657.0
+136,2010,Nemesis,2.99,Marvel,54200.0,162058.0
+137,2010,Secret Avengers,3.99,Marvel,54100.0,215859.0
+138,2010,New Mutants,2.99,Marvel,54100.0,161759.0
+139,2010,Ultimate Comics Avengers 3,3.99,Marvel,54000.0,215460.0
+140,2010,Sentry Fallen Sun,3.99,Marvel,53900.0,215061.0
+141,2010,Thor,3.99,Marvel,53800.0,214662.0
+142,2010,X-Men Legacy,2.99,Marvel,53700.0,160563.0
+143,2010,Thor,3.99,Marvel,53600.0,213864.0
+144,2010,X-Men Legacy,2.99,Marvel,53600.0,160264.0
+145,2010,Captain America,3.99,Marvel,53500.0,213465.0
+146,2010,New Mutants,2.99,Marvel,53500.0,159965.0
+147,2010,Captain America,3.99,Marvel,53300.0,212667.0
+148,2010,Ultimate Comics Avengers 2,3.99,Marvel,53300.0,212667.0
+149,2010,Hulk,3.99,Marvel,53100.0,211869.0
+150,2010,X-Men,3.99,Marvel,53100.0,211869.0
+151,2010,Siege Spider-Man,2.99,Marvel,52800.0,157872.0
+152,2010,Wolverine,3.99,Marvel,52800.0,210672.0
+153,2010,Invincible Iron Man,2.99,Marvel,52800.0,157872.0
+154,2010,Amazing Spider-Man,3.99,Marvel,52800.0,210672.0
+155,2010,Ultimate Comics X,3.99,Marvel,52500.0,209475.0
+156,2010,Invincible Iron Man,2.99,Marvel,52300.0,156377.0
+157,2010,X-23,3.99,Marvel,52200.0,208278.0
+158,2010,Mighty Avengers,2.99,Marvel,52200.0,156078.0
+159,2010,Hulk,3.99,Marvel,52100.0,207879.0
+160,2010,X-Men Legacy,2.99,Marvel,52000.0,155480.0
+161,2010,Mighty Avengers,2.99,Marvel,51900.0,155181.0
+162,2010,X-Force,2.99,Marvel,51900.0,155181.0
+163,2010,Wolverine,3.99,Marvel,51700.0,206283.0
+164,2010,Hulk,4.99,Marvel,51600.0,257484.0
+165,2010,Thor,3.99,Marvel,51400.0,205086.0
+166,2010,Captain America,3.99,Marvel,51400.0,205086.0
+167,2010,X-Men Legacy,2.99,Marvel,51300.0,153387.0
+168,2010,Thor,3.99,Marvel,51300.0,204687.0
+169,2010,Shadowland,3.99,Marvel,51100.0,203889.0
+170,2010,Dark Wolverine,2.99,Marvel,51100.0,152789.0
+171,2010,Astonishing X-Men,2.99,Marvel,51000.0,152490.0
+172,2010,Daken Dark Wolverine,3.99,Marvel,51000.0,203490.0
+173,2010,Ultimate Comics Avengers 2,3.99,Marvel,50800.0,202692.0
+174,2010,X-Force,2.99,Marvel,50800.0,151892.0
+175,2010,X-Force,2.99,Marvel,50800.0,151892.0
+176,2010,Mighty Avengers,2.99,Marvel,50700.0,151593.0
+177,2010,Iron Man Legacy,3.99,Marvel,50500.0,201495.0
+178,2010,X-Men Legacy,2.99,Marvel,50500.0,150995.0
+179,2010,Ultimate Comics Thor,3.99,Marvel,50300.0,200697.0
+180,2010,Ultimate Comics Avengers 2,3.99,Marvel,50200.0,200298.0
+181,2010,Invincible Iron Man,2.99,Marvel,50000.0,149500.0
+182,2010,Hulk,3.99,Marvel,49700.0,198303.0
+183,2010,Incredible Hulk,3.99,Marvel,49500.0,197505.0
+184,2010,Invincible Iron Man,2.99,Marvel,49500.0,148005.0
+185,2010,Incredible Hulk,3.99,Marvel,49400.0,197106.0
+186,2010,Invincible Iron Man,2.99,Marvel,49400.0,147706.0
+187,2010,Shadowland,3.99,Marvel,49300.0,196707.0
+188,2010,Avengers Academy,3.99,Marvel,49200.0,196308.0
+189,2010,Captain America,3.99,Marvel,49200.0,196308.0
+190,2010,Thor,3.99,Marvel,49200.0,196308.0
+191,2010,Shield,3.99,Marvel,49100.0,195909.0
+192,2010,Siege Embedded,3.99,Marvel,48900.0,195111.0
+193,2010,X-Men Legacy,2.99,Marvel,48800.0,145912.0
+194,2010,Siege Loki,2.99,Marvel,48700.0,145613.0
+195,2010,Invincible Iron Man,2.99,Marvel,48700.0,145613.0
+196,2010,Incredible Hulk,3.99,Marvel,48700.0,194313.0
+197,2010,Avengers Prime,3.99,Marvel,48700.0,194313.0
+198,2010,Captain America,3.99,Marvel,48400.0,193116.0
+199,2010,X-Men Legacy,2.99,Marvel,48400.0,144716.0
+200,2010,Dark Wolverine,2.99,Marvel,48300.0,144417.0
+201,2010,Ultimate Comics New Ultimates,3.99,Marvel,48200.0,192318.0
+202,2010,Carnage,3.99,Marvel,48100.0,191919.0
+203,2010,Kick Ass,2.99,Marvel,47900.0,143221.0
+204,2010,Mighty Avengers,2.99,Marvel,47900.0,143221.0
+205,2010,Captain America,3.99,Marvel,47600.0,189924.0
+206,2010,Incredible Hulk,3.99,Marvel,47400.0,189126.0
+207,2010,Invincible Iron Man,2.99,Marvel,47400.0,141726.0
+208,2010,Ultimate Comics Avengers 2,3.99,Marvel,47300.0,188727.0
+209,2010,Dark Wolverine,2.99,Marvel,47200.0,141128.0
+210,2010,Nemesis,2.99,Marvel,47200.0,141128.0
+211,2010,Hulk,3.99,Marvel,47200.0,188328.0
+212,2010,Incredible Hulk,3.99,Marvel,46700.0,186333.0
+213,2010,Doomwar,3.99,Marvel,46600.0,185934.0
+214,2010,Shadowland,3.99,Marvel,46500.0,185535.0
+215,2010,Uncanny X-Men Heroic Age,3.99,Marvel,46500.0,185535.0
+216,2010,Avengers Childrens Crusade,3.99,Marvel,46500.0,185535.0
+217,2010,Ultimate Comics Avengers 2,3.99,Marvel,46400.0,185136.0
+218,2010,Nemesis,2.99,Marvel,46200.0,138138.0
+219,2010,Daredevil,2.99,Marvel,45900.0,137241.0
+220,2010,Invincible Iron Man,2.99,Marvel,45600.0,136344.0
+221,2010,Deadpool,2.99,Marvel,45500.0,136045.0
+222,2010,Incredible Hulk,3.99,Marvel,45500.0,181545.0
+223,2010,Astonishing X-Men Xenogenesis,3.99,Marvel,45200.0,180348.0
+224,2010,Thor,3.99,Marvel,45100.0,179949.0
+225,2010,X-Factor,2.99,Marvel,45100.0,134849.0
+226,2010,Ultimate Comics X,3.99,Marvel,45100.0,179949.0
+227,2010,Siege Secret Warriors,2.99,Marvel,44900.0,134251.0
+228,2010,Fantastic Four,2.99,Marvel,44900.0,134251.0
+229,2010,Deadpool,2.99,Marvel,44700.0,133653.0
+230,2010,Siege Young Avengers,2.99,Marvel,44400.0,132756.0
+231,2010,Fantastic Four,2.99,Marvel,44400.0,132756.0
+232,2010,Fall of Hulks Red Hulk,3.99,Marvel,44300.0,176757.0
+233,2010,Shadowland,3.99,Marvel,44300.0,176757.0
+234,2010,X-Force Sex and Violence,3.99,Marvel,44200.0,176358.0
+235,2010,Deadpool Merc With A Mouth,3.99,Marvel,44200.0,176358.0
+236,2010,Ultimate Comics Spider-Man,3.99,Marvel,44200.0,176358.0
+237,2010,Deadpool,2.99,Marvel,44100.0,131859.0
+238,2010,Siege Embedded,3.99,Marvel,44100.0,175959.0
+239,2010,X-Men Legacy,2.99,Marvel,44100.0,131859.0
+240,2010,Superior,2.99,Marvel,43900.0,131261.0
+241,2010,Incredible Hulks,3.99,Marvel,43900.0,175161.0
+242,2010,Daredevil,2.99,Marvel,43800.0,130962.00000000001
+243,2010,Deadpool,2.99,Marvel,43500.0,130065.00000000001
+244,2010,Daredevil,2.99,Marvel,43300.0,129467.00000000001
+245,2010,Ultimate Comics Avengers 3,3.99,Marvel,43200.0,172368.0
+246,2010,Hulk,3.99,Marvel,43200.0,172368.0
+247,2010,Dark Wolverine,2.99,Marvel,43100.0,128869.00000000001
+248,2010,Dark Wolverine,2.99,Marvel,43100.0,128869.00000000001
+249,2010,Captain America,3.99,Marvel,43000.0,171570.0
+250,2010,Ultimate Comics New Ultimates,3.99,Marvel,42900.0,171171.0
+251,2010,Daredevil,2.99,Marvel,42900.0,128271.00000000001
+252,2010,Deadpool,2.99,Marvel,42900.0,128271.00000000001
+253,2010,Ultimate Comics Spider-Man,3.99,Marvel,42700.0,170373.0
+254,2010,Amazing Spider-Man Annual,3.99,Marvel,42300.0,168777.0
+255,2010,Avengers Prime,3.99,Marvel,42200.0,168378.0
+256,2010,Invincible Iron Man,3.99,Marvel,42000.0,167580.0
+257,2010,X-Men Legacy,2.99,Marvel,41900.0,125281.00000000001
+258,2010,World War Hulks,3.99,Marvel,41800.0,166782.0
+259,2010,Fantastic Four,2.99,Marvel,41800.0,124982.00000000001
+260,2010,Dark Wolverine,2.99,Marvel,41600.0,124384.00000000001
+261,2010,X-Factor,2.99,Marvel,41600.0,124384.00000000001
+262,2010,Steve Rogers Super-Soldier,3.99,Marvel,41400.0,165186.0
+263,2010,Invincible Iron Man,3.99,Marvel,41400.0,165186.0
+264,2010,Ultimate Comics Spider-Man,3.99,Marvel,41300.0,164787.0
+265,2010,Fall of Hulks Red Hulk,3.99,Marvel,41300.0,164787.0
+266,2010,Ultimate Comics Spider-Man,5.99,Marvel,41200.0,246788.0
+267,2010,X-Factor,2.99,Marvel,41200.0,123188.00000000001
+268,2010,Avengers Initiative,2.99,Marvel,41100.0,122889.00000000001
+269,2010,Invincible Iron Man Annual,4.99,Marvel,40900.0,204091.0
+270,2010,Ultimate Comics Spider-Man,3.99,Marvel,40800.0,162792.0
+271,2010,Shield,2.99,Marvel,40800.0,121992.00000000001
+272,2010,Siege Embedded,3.99,Marvel,40600.0,161994.0
+273,2010,X-Force Sex and Violence,3.99,Marvel,40500.0,161595.0
+274,2010,Ultimate Comics Enemy,3.99,Marvel,40500.0,161595.0
+275,2010,Deadpool Corps,3.99,Marvel,40400.0,161196.0
+276,2010,Daredevil,2.99,Marvel,40300.0,120497.00000000001
+277,2010,Incredible Hulks,3.99,Marvel,40300.0,160797.0
+278,2010,Ultimate Comics Spider-Man,3.99,Marvel,40100.0,159999.0
+279,2010,Dark Wolverine,2.99,Marvel,40100.0,119899.00000000001
+280,2010,Incredible Hulks,3.99,Marvel,39700.0,158403.0
+281,2010,Fall of Hulks Red Hulk,3.99,Marvel,39500.0,157605.0
+282,2010,Avengers Academy,2.99,Marvel,39400.0,117806.00000000001
+283,2010,Daredevil,2.99,Marvel,39400.0,117806.00000000001
+284,2010,Fantastic Four,2.99,Marvel,39400.0,117806.00000000001
+285,2010,Avengers Initiative,2.99,Marvel,39400.0,117806.00000000001
+286,2010,Ultimate Comics Spider-Man,3.99,Marvel,39200.0,156408.0
+287,2010,Fantastic Four,2.99,Marvel,39200.0,117208.00000000001
+288,2010,Wolverine,4.99,Marvel,39200.0,195608.0
+289,2010,Daken Dark Wolverine,2.99,Marvel,39100.0,116909.00000000001
+290,2010,Avengers Initiative,2.99,Marvel,39000.0,116610.00000000001
+291,2010,Astonishing X-Men Xenogenesis,3.99,Marvel,39000.0,155610.0
+292,2010,Generation Hope,2.99,Marvel,39000.0,116610.00000000001
+293,2010,Deadpool,2.99,Marvel,39000.0,116610.00000000001
+294,2010,Warlord of Mars,1.0,Dynamite,38900.0,38900.0
+295,2010,Ultimate Comics Avengers 3,3.99,Marvel,38800.0,154812.0
+296,2010,Hulk,3.99,Marvel,38700.0,154413.0
+297,2010,Fantastic Four,2.99,Marvel,38700.0,115713.00000000001
+298,2010,Fantastic Four,2.99,Marvel,38700.0,115713.00000000001
+299,2010,Deadpool and Cable,3.99,Marvel,38700.0,154413.0
+300,2010,Avengers Initiative,2.99,Marvel,38400.0,114816.00000000001
+301,2010,Dark X-Men,3.99,Marvel,38400.0,153216.0
+302,2010,X-Men Hellbound,3.99,Marvel,38200.0,152418.0
+303,2010,Avengers Childrens Crusade,3.99,Marvel,38200.0,152418.0
+304,2010,Fantastic Four,2.99,Marvel,38200.0,114218.00000000001
+305,2010,Ultimate Comics Spider-Man,3.99,Marvel,38000.0,151620.0
+306,2010,World War Hulks Hulked Out Heroes,3.99,Marvel,37900.0,151221.0
+307,2010,Daredevil,2.99,Marvel,37800.0,113022.00000000001
+308,2010,Daredevil,2.99,Marvel,37700.0,112723.00000000001
+309,2010,Prelude To Deadpool Corps,3.99,Marvel,37600.0,150024.0
+310,2010,Thanos Imperative,3.99,Marvel,37500.0,149625.0
+311,2010,Generation Hope,3.99,Marvel,37500.0,149625.0
+312,2010,X-Force Sex and Violence,3.99,Marvel,37400.0,149226.0
+313,2010,Wolverine Origins,2.99,Marvel,37400.0,111826.00000000001
+314,2010,Deadpool,3.99,Marvel,37300.0,148827.0
+315,2010,Fall of Hulks Red Hulk,3.99,Marvel,37200.0,148428.0
+316,2010,Wolverine Origins,2.99,Marvel,37100.0,110929.00000000001
+317,2010,Chaos War,3.99,Marvel,37100.0,148029.0
+318,2010,Incredible Hulks,3.99,Marvel,37000.0,147630.0
+319,2010,Wolverine Origins,2.99,Marvel,37000.0,110630.00000000001
+320,2010,Wolverine Origins,3.99,Marvel,37000.0,147630.0
+321,2010,Ultimate Comics Spider-Man,3.99,Marvel,37000.0,147630.0
+322,2010,Ultimate Comics Avengers 3,3.99,Marvel,37000.0,147630.0
+323,2010,X-Men Second Coming Revelations Blind Science,3.99,Marvel,36900.0,147231.0
+324,2010,Fantastic Four,2.99,Marvel,36900.0,110331.00000000001
+325,2010,Thunderbolts,2.99,Marvel,36800.0,110032.00000000001
+326,2010,Deadpool,2.99,Marvel,36700.0,109733.00000000001
+327,2010,Thunderbolts,2.99,Marvel,36500.0,109135.00000000001
+328,2010,Fantastic Four,2.99,Marvel,36400.0,108836.00000000001
+329,2010,Age of Heroes,3.99,Marvel,36200.0,144438.0
+330,2010,Avengers Academy,2.99,Marvel,36200.0,108238.00000000001
+331,2010,New Mutants,2.99,Marvel,36100.0,107939.00000000001
+332,2010,Ultimate Comics Spider-Man,3.99,Marvel,36100.0,144039.0
+333,2010,Fantastic Four,2.99,Marvel,35900.0,107341.00000000001
+334,2010,Deadpool,2.99,Marvel,35900.0,107341.00000000001
+335,2010,Scarlet,3.95,Marvel,35800.0,141410.0
+336,2010,Steve Rogers Super-Soldier,3.99,Marvel,35800.0,142842.0
+337,2010,Wolverine Origins,2.99,Marvel,35800.0,107042.00000000001
+338,2010,World War Hulks Hulked Out Heroes,3.99,Marvel,35800.0,142842.0
+339,2010,New Mutants,2.99,Marvel,35700.0,106743.00000000001
+340,2010,Thunderbolts,2.99,Marvel,35700.0,106743.00000000001
+341,2010,Avengers Childrens Crusade,3.99,Marvel,35600.0,142044.0
+342,2010,Superior,2.99,Marvel,35500.0,106145.00000000001
+343,2010,X-23,2.99,Marvel,35500.0,106145.00000000001
+344,2010,Black Widow,3.99,Marvel,35500.0,141645.0
+345,2010,Incredible Hulks,3.99,Marvel,35400.0,141246.0
+346,2010,Astonishing Spider-Man Wolverine,3.99,Marvel,35300.0,140847.0
+347,2010,Ultimate Comics Spider-Man,3.99,Marvel,35300.0,140847.0
+348,2010,Dark X-Men,3.99,Marvel,35100.0,140049.0
+349,2010,Fantastic Four,2.99,Marvel,35100.0,104949.00000000001
+350,2010,Wolverine Origins,2.99,Marvel,35100.0,104949.00000000001
+351,2010,Deadpool Merc With A Mouth,2.99,Marvel,35100.0,104949.00000000001
+352,2010,Deadpool,2.99,Marvel,35100.0,104949.00000000001
+353,2010,Wolverine Origins,2.99,Marvel,34900.0,104351.00000000001
+354,2010,Incredible Hulks,3.99,Marvel,34900.0,139251.0
+355,2010,Thunderbolts,2.99,Marvel,34800.0,104052.00000000001
+356,2010,Hulk,3.99,Marvel,34800.0,138852.0
+357,2010,Daredevil,2.99,Marvel,34800.0,104052.00000000001
+358,2010,Incredible Hulks,3.99,Marvel,34600.0,138054.0
+359,2010,Ultimate Comics Avengers 3,3.99,Marvel,34500.0,137655.0
+360,2010,Deadpool,4.99,Marvel,34400.0,171656.0
+361,2010,Deadpool Merc With A Mouth,2.99,Marvel,34400.0,102856.00000000001
+362,2010,Namor First Mutant,3.99,Marvel,34200.0,136458.0
+363,2010,Deadpool Merc With A Mouth,2.99,Marvel,34200.0,102258.00000000001
+364,2010,Thunderbolts,2.99,Marvel,34100.0,101959.0
+365,2010,Ultimate Comics Mystery,3.99,Marvel,34100.0,136059.0
+366,2010,Thanos Imperative,3.99,Marvel,34000.0,135660.0
+367,2010,Dark X-Men,3.99,Marvel,33900.0,135261.0
+368,2010,Invaders Now,3.99,Marvel,33900.0,135261.0
+369,2010,Shield,2.99,Marvel,33900.0,101361.0
+370,2010,X-Men Hellbound,3.99,Marvel,33800.0,134862.0
+371,2010,Ultimate Comics Spider-Man,3.99,Marvel,33800.0,134862.0
+372,2010,Nation X,3.99,Marvel,33700.0,134463.0
+373,2010,X-Men Hellbound,3.99,Marvel,33700.0,134463.0
+374,2010,Wolverine Road To Hell,3.99,Marvel,33700.0,134463.0
+375,2010,Fall of Hulks Savage She-Hulks,3.99,Marvel,33600.0,134064.0
+376,2010,Thanos Imperative Ignition,3.99,Marvel,33200.0,132468.0
+377,2010,Captain America Who Wont Wield Shield,3.99,Marvel,33200.0,132468.0
+378,2010,Steve Rogers Super-Soldier,3.99,Marvel,33200.0,132468.0
+379,2010,Astonishing X-Men Xenogenesis,3.99,Marvel,33100.0,132069.0
+380,2010,Black Panther Man Without Fear,2.99,Marvel,33100.0,98969.0
+381,2010,Deadpool Team-Up,2.99,Marvel,33100.0,98969.0
+382,2010,Daken Dark Wolverine,2.99,Marvel,32900.0,98371.0
+383,2010,Carnage,3.99,Marvel,32800.0,130872.0
+384,2010,Incredible Hulks,3.99,Marvel,32700.0,130473.0
+385,2010,X-Men Curse of Mutants Storm & Gambit,3.99,Marvel,32700.0,130473.0
+386,2010,Thunderbolts,2.99,Marvel,32600.0,97474.0
+387,2010,Thanos Imperative,3.99,Marvel,32500.0,129675.0
+388,2010,Prelude To Deadpool Corps,2.99,Marvel,32500.0,97175.0
+389,2010,Thor For Asgard,3.99,Marvel,32500.0,129675.0
+390,2010,Shield,2.99,Marvel,32500.0,97175.0
+391,2010,X-Factor,2.99,Marvel,32400.0,96876.0
+392,2010,Wolverine Weapon X,3.99,Marvel,32200.0,128478.0
+393,2010,New Mutants,2.99,Marvel,32100.0,95979.0
+394,2010,Ultimate Comics Thor,3.99,Marvel,32100.0,128079.0
+395,2010,Thunderbolts,4.99,Marvel,32100.0,160179.0
+396,2010,Superior,2.99,Marvel,32000.0,95680.0
+397,2010,Thunderbolts,2.99,Marvel,32000.0,95680.0
+398,2010,Marvels Project,3.99,Marvel,31800.0,126882.0
+399,2010,X-23,2.99,Marvel,31800.0,95082.0
+400,2010,New Mutants,2.99,Marvel,31800.0,95082.0
+401,2010,Marvels Project,3.99,Marvel,31800.0,126882.0
+402,2010,X-Factor,2.99,Marvel,31800.0,95082.0
+403,2010,New Mutants,2.99,Marvel,31700.0,94783.0
+404,2010,Deadpool,2.99,Marvel,31600.0,94484.0
+405,2010,Secret Warriors,2.99,Marvel,31600.0,94484.0
+406,2010,X-Men Origins Deadpool,3.99,Marvel,31600.0,126084.0
+407,2010,Prelude To Deadpool Corps,2.99,Marvel,31500.0,94185.0
+408,2010,Chaos War,3.99,Marvel,31500.0,125685.0
+409,2010,Deadpool Merc With A Mouth,2.99,Marvel,31400.0,93886.0
+410,2010,Avengers Academy,2.99,Marvel,31300.0,93587.0
+411,2010,Avengers Academy,2.99,Marvel,31300.0,93587.0
+412,2010,Nation X,3.99,Marvel,31300.0,124887.0
+413,2010,Thunderbolts,2.99,Marvel,31200.0,93288.0
+414,2010,Doomwar,3.99,Marvel,31000.0,123690.0
+415,2010,Thunderbolts,2.99,Marvel,30900.0,92391.0
+416,2010,Deadpool Merc With A Mouth,2.99,Marvel,30800.0,92092.0
+417,2010,Prelude To Deadpool Corps,2.99,Marvel,30800.0,92092.0
+418,2010,Daken Dark Wolverine,2.99,Marvel,30800.0,92092.0
+419,2010,Marvels Project,3.99,Marvel,30700.0,122493.0
+420,2010,Hawkeye & Mockingbird,3.99,Marvel,30700.0,122493.0
+421,2010,Deadpool,2.99,Marvel,30600.0,91494.0
+422,2010,Deadpool Team-Up,2.99,Marvel,30600.0,91494.0
+423,2010,Ultimate Comics Enemy,3.99,Marvel,30500.0,121695.0
+424,2010,Wolverine Weapon X,3.99,Marvel,30500.0,121695.0
+425,2010,X-Factor,2.99,Marvel,30400.0,90896.0
+426,2010,X-Factor,2.99,Marvel,30400.0,90896.0
+427,2010,Heroes For Hire,3.99,Marvel,30400.0,121296.0
+428,2010,Wolverine Weapon X,3.99,Marvel,30400.0,121296.0
+429,2010,Secret Warriors,2.99,Marvel,30400.0,90896.0
+430,2010,Cable,3.99,Marvel,30300.0,120897.0
+431,2010,Wolverine Weapon X,3.99,Marvel,30300.0,120897.0
+432,2010,New Mutants,2.99,Marvel,30300.0,90597.0
+433,2010,Wolverine Weapon X,3.99,Marvel,30200.0,120498.0
+434,2010,Thanos Imperative,3.99,Marvel,30100.0,120099.0
+435,2010,Secret Warriors,2.99,Marvel,30000.0,89700.0
+436,2010,Wolverine Weapon X,3.99,Marvel,30000.0,119700.0
+437,2010,Thanos Imperative,3.99,Marvel,30000.0,119700.0
+438,2010,Wolverine Weapon X,3.99,Marvel,29900.0,119301.0
+439,2010,Secret Warriors,2.99,Marvel,29900.0,89401.0
+440,2010,Nation X X-Factor,3.99,Marvel,29800.0,118902.0
+441,2010,X-23,2.99,Marvel,29800.0,89102.0
+442,2010,Astonishing Spider-Man Wolverine,3.99,Marvel,29800.0,118902.0
+443,2010,X-Factor,2.99,Marvel,29700.0,88803.0
+444,2010,Iron Man Legacy,2.99,Marvel,29700.0,88803.0
+445,2010,Wolverine Weapon X,3.99,Marvel,29600.0,118104.0
+446,2010,Prelude To Deadpool Corps,2.99,Marvel,29600.0,88504.0
+447,2010,Deadpool Team-Up,2.99,Marvel,29600.0,88504.0
+448,2010,Astonishing Thor,3.99,Marvel,29500.0,117705.0
+449,2010,Nation X,3.99,Marvel,29500.0,117705.0
+450,2010,X-Factor,2.99,Marvel,29500.0,88205.0
+451,2010,Thanos Imperative,3.99,Marvel,29400.0,117306.0
+452,2010,Deadpool Wade Wilsons War,3.99,Marvel,29400.0,117306.0
+453,2010,Cable,2.99,Marvel,29200.0,87308.0
+454,2010,Deadpoolmax,3.99,Marvel,29200.0,116508.0
+455,2010,Secret Warriors,2.99,Marvel,29200.0,87308.0
+456,2010,Deadpool Team-Up,2.99,Marvel,29100.0,87009.0
+457,2010,Deadpool Merc With A Mouth,3.99,Marvel,29100.0,116109.0
+458,2010,Ultimate Comics Enemy,3.99,Marvel,29100.0,116109.0
+459,2010,Thunderbolts,2.99,Marvel,29100.0,87009.0
+460,2010,X-Women,4.99,Marvel,29100.0,145209.0
+461,2010,X-Men Curse of Mutants Blade,3.99,Marvel,29000.0,115710.0
+462,2010,Scarlet,3.95,Marvel,29000.0,114550.0
+463,2010,Thor For Asgard,3.99,Marvel,28900.0,115311.0
+464,2010,Deadpool Corps,2.99,Marvel,28800.0,86112.0
+465,2010,Chaos War,3.99,Marvel,28800.0,114912.0
+466,2010,Shadowland Bullseye,3.99,Marvel,28800.0,114912.0
+467,2010,Doomwar,3.99,Marvel,28700.0,114513.0
+468,2010,Marvels Project,3.99,Marvel,28600.0,114114.0
+469,2010,Doomwar,3.99,Marvel,28600.0,114114.0
+470,2010,Cable,2.99,Marvel,28500.0,85215.0
+471,2010,Fall of Hulks Savage She-Hulks,3.99,Marvel,28500.0,113715.0
+472,2010,Fantastic Four Annual,4.99,Marvel,28500.0,142215.0
+473,2010,Spider-Woman,2.99,Marvel,28300.0,84617.0
+474,2010,Secret Warriors,2.99,Marvel,28300.0,84617.0
+475,2010,Ultimate Comics Enemy,3.99,Marvel,28200.0,112518.0
+476,2010,Ultimate Comics Thor,3.99,Marvel,28100.0,112119.0
+477,2010,Ultimate Comics Armor Wars,3.99,Marvel,28100.0,112119.0
+478,2010,X-Men Hope,2.99,Marvel,28000.0,83720.0
+479,2010,Dark Tower Battle of Jericho Hill,3.99,Marvel,28000.0,111720.0
+480,2010,X-23,3.99,Marvel,28000.0,111720.0
+481,2010,Thunderbolts,2.99,Marvel,27900.0,83421.0
+482,2010,X-Factor,2.99,Marvel,27800.0,83122.0
+483,2010,Avengers Academy,2.99,Marvel,27800.0,83122.0
+484,2010,Marvel Zombies 5,3.99,Marvel,27800.0,110922.0
+485,2010,Marvel Universe Vs Punisher,3.99,Marvel,27800.0,110922.0
+486,2010,Fall of Hulks Savage She-Hulks,3.99,Marvel,27700.0,110523.0
+487,2010,X-Men Curse of Mutants Smoke and Blood,3.99,Marvel,27700.0,110523.0
+488,2010,Ultimate Comics Doom,3.99,Marvel,27500.0,109725.0
+489,2010,Secret Warriors,2.99,Marvel,27500.0,82225.0
+490,2010,Marvel Zombies 5,3.99,Marvel,27400.0,109326.0
+491,2010,Dark Tower Battle of Jericho Hill,3.99,Marvel,27400.0,109326.0
+492,2010,Avengers Academy,2.99,Marvel,27300.0,81627.0
+493,2010,Deadpool Wade Wilsons War,3.99,Marvel,27300.0,108927.0
+494,2010,Shield,2.99,Marvel,27200.0,81328.0
+495,2010,New Mutants,2.99,Marvel,27200.0,81328.0
+496,2010,Secret Warriors,2.99,Marvel,27200.0,81328.0
+497,2010,World War Hulks Wolverine Vs Captain America,3.99,Marvel,27200.0,108528.0
+498,2010,Dark Tower Gunslinger Journey Begins,3.99,Marvel,27200.0,108528.0
+499,2010,Deadpool Team-Up,2.99,Marvel,27200.0,81328.0
+500,2010,World War Hulks Spider-Man Vs Thor,3.99,Marvel,27100.0,108129.0
+501,2010,Ultimate Comics Mystery,3.99,Marvel,27000.0,107730.0
+502,2010,X-Factor,2.99,Marvel,26800.0,80132.0
+503,2010,Spider-Woman,2.99,Marvel,26700.0,79833.0
+504,2010,Siege Storming Asgard Heroes and Villains,3.99,Marvel,26600.0,106134.0
+505,2010,X-Factor,2.99,Marvel,26400.0,78936.0
+506,2010,Shadowland After Fall,3.99,Marvel,26400.0,105336.0
+507,2010,Dark Tower Battle of Jericho Hill,3.99,Marvel,26400.0,105336.0
+508,2010,Chaos War,3.99,Marvel,26300.0,104937.0
+509,2010,Deadpool Corps,2.99,Marvel,26200.0,78338.0
+510,2010,Secret Warriors,2.99,Marvel,26200.0,78338.0
+511,2010,X-Men Curse of Mutants X-Men Vs Vampires,3.99,Marvel,26100.0,104139.0
+512,2010,Ms Marvel,3.99,Marvel,26100.0,104139.0
+513,2010,Doomwar,3.99,Marvel,26100.0,104139.0
+514,2010,Franken-Castle,2.99,Marvel,25900.0,77441.0
+515,2010,Astonishing Spider-Man Wolverine,3.99,Marvel,25900.0,103341.0
+516,2010,Spider-Woman,3.99,Marvel,25800.0,102942.0
+517,2010,New Mutants,2.99,Marvel,25600.0,76544.0
+518,2010,World War Hulks Wolverine Vs Captain America,3.99,Marvel,25600.0,102144.0
+519,2010,Age of Heroes,3.99,Marvel,25600.0,102144.0
+520,2010,World War Hulks Spider-Man Vs Thor,3.99,Marvel,25600.0,102144.0
+521,2010,Hulk Let Battle Begin,3.99,Marvel,25400.0,101346.0
+522,2010,Thor Rage of Thor,3.99,Marvel,25300.0,100947.0
+523,2010,Ultimate Comics Mystery,3.99,Marvel,25300.0,100947.0
+524,2010,Amazing Spider-Man Presents Black Cat,3.99,Marvel,25200.0,100548.0
+525,2010,Lady Deadpool,3.99,Marvel,25100.0,100149.0
+526,2010,Incredible Hercules,3.99,Marvel,25100.0,100149.0
+527,2010,Guardians of Galaxy,2.99,Marvel,25100.0,75049.0
+528,2010,Secret Warriors,2.99,Marvel,25000.0,74750.0
+529,2010,Web of Spider-Man,3.99,Marvel,25000.0,99750.0
+530,2010,Web of Spider-Man,3.99,Marvel,25000.0,99750.0
+531,2010,Scarlet,3.95,Marvel,25000.0,98750.0
+532,2010,Avengers Origin,3.99,Marvel,24900.0,99351.0
+533,2010,Marvel Universe Vs Punisher,3.99,Marvel,24800.0,98952.0
+534,2010,Doomwar,3.99,Marvel,24800.0,98952.0
+535,2010,Deadpool Corps,2.99,Marvel,24700.0,73853.0
+536,2010,Shadowland Spider-Man,3.99,Marvel,24700.0,98553.0
+537,2010,Avengers & Infinity Gauntlet,2.99,Marvel,24700.0,73853.0
+538,2010,Namor First Mutant,2.99,Marvel,24600.0,73554.0
+539,2010,Shadowland Elektra,3.99,Marvel,24600.0,98154.0
+540,2010,New Mutants,2.99,Marvel,24500.0,73255.0
+541,2010,Dark Reign Hawkeye,3.99,Marvel,24400.0,97356.0
+542,2010,Dark Tower Gunslinger Journey Begins,3.99,Marvel,24300.0,96957.0
+543,2010,Secret Warriors,2.99,Marvel,24300.0,72657.0
+544,2010,Shadowland Moon Knight,3.99,Marvel,24300.0,96957.0
+545,2010,Franken-Castle,2.99,Marvel,24300.0,72657.0
+546,2010,Spider-Girl,3.99,Marvel,24200.0,96558.0
+547,2010,Punisher,2.99,Marvel,24200.0,72358.0
+548,2010,Realm of Kings Son of Hulk,3.99,Marvel,24200.0,96558.0
+549,2010,Black Widow,2.99,Marvel,23900.0,71461.0
+550,2010,Incredible Hercules,3.99,Marvel,23800.0,94962.0
+551,2010,Deadpool Team-Up,2.99,Marvel,23800.0,71162.0
+552,2010,Marvel Zombies 5,3.99,Marvel,23800.0,94962.0
+553,2010,Punisher,2.99,Marvel,23800.0,71162.0
+554,2010,Thor For Asgard,3.99,Marvel,23700.0,94563.0

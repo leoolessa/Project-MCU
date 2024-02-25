@@ -1,48 +1,48 @@
-Movie_ID,Title,Release year,Distributor(s),Bud�get (mil�lions),Opening weekend(North America),North America,Other territories,Worldwide
-0,Iron Man,2008,Paramount Pictures,$140,$98618668,$318412101,$266762121,$585174222
-1,The Incredible Hulk,2008,Universal Pictures,$150,$55414050,$134806913,$128620638,$263427551
-2,Punisher: War Zone,2008,Lionsgate Films,$35,$4271451,$8050977,$2049059,$10100036
-3,X-Men Origins: Wolverine,2009,20th Century Fox,$150,$85058003,$179883157,$193179707,$373062864
-4,Iron Man 2,2010,Paramount Pictures,$200,$128122480,$312433331,$311500000,$623933331
-5,Thor,2011,Paramount Pictures,$150,$65723338,$181030624,$268295994,$449326618
-6,X-Men: First Class,2011,20th Century Fox,$160,$55101604,$146408305,$207215819,$353624124
-7,Captain America: The First Avenger,2011,Paramount Pictures,$140,$65058524,$176654505,$193915269,$370569774
-8,Ghost Rider: Spirit of Vengeance,2012,Sony Pictures,$57,$22115334,$51774002,$80789928,$132563930
-9,The Avengers,2012,Walt Disney Studios Motion Pictures,$220,$207438708,$623357910,$895455078,$1518812988
-10,The Amazing Spider-Man,2012,Sony Pictures,$230,$62004688,$262030663,$495900000,$757930663
-11,Iron Man 3,2013,Walt Disney Studios Motion Pictures,$200,$174144585,$409013994,$805797258,$1214811252
-12,The Wolverine,2013,20th Century Fox,$120,$53113752,$132550960,$282271394,$414828246
-13,Thor: The Dark World,2013,Walt Disney Studios Motion Pictures,$170,$85737841,$206362140,$438209262,$644571402
-14,Captain America: The Winter Soldier,2014,Walt Disney Studios Motion Pictures,$170,$95023721,$259766572,$454497695,$714264267
-15,The Amazing Spider-Man 2,2014,Sony Pictures,$255,$91608337,$202853933,$506128390,$708982323
-16,X-Men: Days of Future Past,2014,20th Century Fox,$200,$90823660,$233921534,$513941241,$747862775
-17,Guardians of the Galaxy,2014,Walt Disney Studios Motion Pictures,$170,$94320883,$333176600,$440152029,$773328629
-18,Big Hero 6,2014,Walt Disney Studios Motion Pictures,$165,$56215889,$222527828,$435300000,$657827828
-19,Avengers: Age of Ultron,2015,Walt Disney Studios Motion Pictures,$250,$191271109,$459005868,$946397826,$1405403694
-20,Ant-Man,2015,Walt Disney Studios Motion Pictures,$130,$57225526,$180202163,$339109802,$519311965
-21,Fantastic Four,2015,20th Century Fox,$120,$25685737,$56117548,$111765333,$167882881
-22,Deadpool,2016,20th Century Fox,$58,$132434600,$363070709,$420042270,$783112979
-23,Captain America: Civil War,2016,Walt Disney Studios Motion Pictures,$250,$179139142,$408084349,$745220146,$1153304495
-24,X-Men: Apocalypse,2016,20th Century Fox,$178,$65769562,$155442489,$388491616,$543934105
-25,Doctor Strange,2016,Walt Disney Studios Motion Pictures,$165,$85058311,$232641920,$445076475,$677718395
-26,Logan,2017,20th Century Fox,$97,$88411916,$226277068,$390518532,$616795600
-27,Guardians of the Galaxy Vol. 2,2017,Walt Disney Studios Motion Pictures,$200,$146510104,$389813101,$473942950,$863756051
-28,Spider-Man: Homecoming,2017,Sony Pictures,$175,$117027503,$334201140,$545965784,$880166924
-29,Inhumans,2017,IMAX Entertainment,,$1500000,$1521787,$1330495,$2852282
-30,Thor: Ragnarok,2017,Walt Disney Studios Motion Pictures,$180,$122744989,$315058289,$538918837,$853977126
-31,Black Panther,2018,Walt Disney Studios Motion Pictures,$200,$202003951,$700059566,$646853595,$1346913161
-32,Avengers: Infinity War,2018,Walt Disney Studios Motion Pictures,$316,$257698183,$678815482,$1369544272,$2048359754
-33,Deadpool 2,2018,20th Century Fox,$110,$125507153,$324591735,$460455185,$785046920
-34,Ant-Man and the Wasp,2018,Walt Disney Studios Motion Pictures,$162,$75812205,$216648740,$406025399,$622674139
-35,Venom,2018,Sony Pictures,$100,$80255756,$213515506,$641498448,$855013954
-36,Spider-Man: Into the Spider-Verse,2018,Sony Pictures,$90,$35363376,$190241310,$185299521,$375540831
-37,Captain Marvel,2019,Walt Disney Studios Motion Pictures,$152,$153433423,$426829839,$701444955,$1128274794
-38,Avengers: Endgame,2019,Walt Disney Studios Motion Pictures,$356,$357115007,$858373000,$1937901401,$2797800564
-39,Dark Phoenix,2019,20th Century Fox,$200,$32828348,$65845974,$186597000,$252442974
-40,Spider-Man: Far From Home,2019,Sony Pictures,$160,$92579212,$390532085,$741395911,$1131927996
-41,The New Mutants,2020,20th Century Studios,$67,$7037017,$23855569,$24819497,$48675066
-42,Black Widow,2021,Walt Disney Studios Motion Pictures,$200,$80366312,$183651665,$195979696,$379631351
-43,Shang-Chi and the Legend of the Ten Rings,2021,Walt Disney Studios Motion Pictures,$150,$75388688,$224543292,$207700000,$432243292
-44,Venom: Let There Be Carnage,2021,Sony Pictures,$110,$90033210,$213550366,$288500000,$502050366
-45,Eternals,2021,Walt Disney Studios Motion Pictures,$200,$85021497,$164870234,$237194665,$402064899
-46,Spider-Man: No Way Home,2021,Sony Pictures,$200,$260138569,$780418859,$1072000000,$1852418859
+Movie_ID,Title,Distributor(s),Release year,Budget (millions),Opening weekend(North America),North America,Other territories,Worldwide
+0,Iron Man,Paramount Pictures,2008,$140,$98618668,$318412101,$266762121,$585174222
+1,The Incredible Hulk,Universal Pictures,2008,$150,$55414050,$134806913,$128620638,$263427551
+2,Punisher: War Zone,Lionsgate Films,2008,$35,$4271451,$8050977,$2049059,$10100036
+3,X-Men Origins: Wolverine,20th Century Fox,2009,$150,$85058003,$179883157,$193179707,$373062864
+4,Iron Man 2,Paramount Pictures,2010,$200,$128122480,$312433331,$311500000,$623933331
+5,Thor,Paramount Pictures,2011,$150,$65723338,$181030624,$268295994,$449326618
+6,X-Men: First Class,20th Century Fox,2011,$160,$55101604,$146408305,$207215819,$353624124
+7,Captain America: The First Avenger,Paramount Pictures,2011,$140,$65058524,$176654505,$193915269,$370569774
+8,Ghost Rider: Spirit of Vengeance,Sony Pictures,2012,$57,$22115334,$51774002,$80789928,$132563930
+9,The Avengers,Walt Disney Studios Motion Pictures,2012,$220,$207438708,$623357910,$895455078,$1518812988
+10,The Amazing Spider-Man,Sony Pictures,2012,$230,$62004688,$262030663,$495900000,$757930663
+11,Iron Man 3,Walt Disney Studios Motion Pictures,2013,$200,$174144585,$409013994,$805797258,$1214811252
+12,The Wolverine,20th Century Fox,2013,$120,$53113752,$132550960,$282271394,$414828246
+13,Thor: The Dark World,Walt Disney Studios Motion Pictures,2013,$170,$85737841,$206362140,$438209262,$644571402
+14,Captain America: The Winter Soldier,Walt Disney Studios Motion Pictures,2014,$170,$95023721,$259766572,$454497695,$714264267
+15,The Amazing Spider-Man 2,Sony Pictures,2014,$255,$91608337,$202853933,$506128390,$708982323
+16,X-Men: Days of Future Past,20th Century Fox,2014,$200,$90823660,$233921534,$513941241,$747862775
+17,Guardians of the Galaxy,Walt Disney Studios Motion Pictures,2014,$170,$94320883,$333176600,$440152029,$773328629
+18,Big Hero 6,Walt Disney Studios Motion Pictures,2014,$165,$56215889,$222527828,$435300000,$657827828
+19,Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,2015,$250,$191271109,$459005868,$946397826,$1405403694
+20,Ant-Man,Walt Disney Studios Motion Pictures,2015,$130,$57225526,$180202163,$339109802,$519311965
+21,Fantastic Four,20th Century Fox,2015,$120,$25685737,$56117548,$111765333,$167882881
+22,Deadpool,20th Century Fox,2016,$58,$132434600,$363070709,$420042270,$783112979
+23,Captain America: Civil War,Walt Disney Studios Motion Pictures,2016,$250,$179139142,$408084349,$745220146,$1153304495
+24,X-Men: Apocalypse,20th Century Fox,2016,$178,$65769562,$155442489,$388491616,$543934105
+25,Doctor Strange,Walt Disney Studios Motion Pictures,2016,$165,$85058311,$232641920,$445076475,$677718395
+26,Logan,20th Century Fox,2017,$97,$88411916,$226277068,$390518532,$616795600
+27,Guardians of the Galaxy Vol. 2,Walt Disney Studios Motion Pictures,2017,$200,$146510104,$389813101,$473942950,$863756051
+28,Spider-Man: Homecoming,Sony Pictures,2017,$175,$117027503,$334201140,$545965784,$880166924
+29,Inhumans,IMAX Entertainment,2017,,$1500000,$1521787,$1330495,$2852282
+30,Thor: Ragnarok,Walt Disney Studios Motion Pictures,2017,$180,$122744989,$315058289,$538918837,$853977126
+31,Black Panther,Walt Disney Studios Motion Pictures,2018,$200,$202003951,$700059566,$646853595,$1346913161
+32,Avengers: Infinity War,Walt Disney Studios Motion Pictures,2018,$316,$257698183,$678815482,$1369544272,$2048359754
+33,Deadpool 2,20th Century Fox,2018,$110,$125507153,$324591735,$460455185,$785046920
+34,Ant-Man and the Wasp,Walt Disney Studios Motion Pictures,2018,$162,$75812205,$216648740,$406025399,$622674139
+35,Venom,Sony Pictures,2018,$100,$80255756,$213515506,$641498448,$855013954
+36,Spider-Man: Into the Spider-Verse,Sony Pictures,2018,$90,$35363376,$190241310,$185299521,$375540831
+37,Captain Marvel,Walt Disney Studios Motion Pictures,2019,$152,$153433423,$426829839,$701444955,$1128274794
+38,Avengers: Endgame,Walt Disney Studios Motion Pictures,2019,$356,$357115007,$858373000,$1937901401,$2797800564
+39,Dark Phoenix,20th Century Fox,2019,$200,$32828348,$65845974,$186597000,$252442974
+40,Spider-Man: Far From Home,Sony Pictures,2019,$160,$92579212,$390532085,$741395911,$1131927996
+41,The New Mutants,20th Century Studios,2020,$67,$7037017,$23855569,$24819497,$48675066
+42,Black Widow,Walt Disney Studios Motion Pictures,2021,$200,$80366312,$183651665,$195979696,$379631351
+43,Shang-Chi and the Legend of the Ten Rings,Walt Disney Studios Motion Pictures,2021,$150,$75388688,$224543292,$207700000,$432243292
+44,Venom: Let There Be Carnage,Sony Pictures,2021,$110,$90033210,$213550366,$288500000,$502050366
+45,Eternals,Walt Disney Studios Motion Pictures,2021,$200,$85021497,$164870234,$237194665,$402064899
+46,Spider-Man: No Way Home,Sony Pictures,2021,$200,$260138569,$780418859,$1072000000,$1852418859
