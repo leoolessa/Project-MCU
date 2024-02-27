@@ -1,3 +1,0 @@
-database for comics sales website: https://www.comichron.com/index.php
-
-database for movie sales website: https://www.kaggle.com/datasets
