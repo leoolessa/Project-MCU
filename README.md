@@ -2,7 +2,7 @@
 
 ## Title and Cover Image
 
-![MCU Project](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMarvel_Cinematic_Universe_logo.png&psig=AOvVaw0Gxnu4Sbu__9rOT7JFzJIk&ust=1709141024893000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiv8MeEzIQDFQAAAAAdAAAAABAE)
+![MCU Project](https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png)
 
 ## Insignia
 
