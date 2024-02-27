@@ -53,7 +53,6 @@ The project leverages the following technologies:
 
 - Leonardo Lessa
 
-- ...
 
 ## License
 
