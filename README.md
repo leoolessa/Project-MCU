@@ -11,17 +11,48 @@
 ## Index
 
 1. [Project Description](#project-description)
-2. [Project Status](#project-status)
-3. [Demonstration of Functions and Applications](#demonstration-of-functions-and-applications)
-4. [Project Access](#project-access)
-5. [Used Technology](#used-technology)
-6. [Taxpayers](#taxpayers)
-7. [Project Developers](#project-developers)
-8. [License](#license)
+2. [Project Goals](#project-goals)
+3. [ETL (Extract, Transform, Load)](#etl)
+4. [EDA (Exploratory Data Analysis)](#eda)
+5. [Visualization using Tableau](#visualization-using-tableau)
+6. [Project Status](#project-status)
+7. [Demonstration of Functions and Applications](#demonstration-of-functions-and-applications)
+8. [Project Access](#project-access)
+9. [Used Technology](#used-technology)
+10. [Taxpayers](#taxpayers)
+11. [Project Developers](#project-developers)
+12. [License](#license)
 
 ## Project Description
 
 This project, named "Project-MCU," focuses on analyzing Marvel Comics' sales data from 2008 to 2021 and the box office performance of Marvel Cinematic Universe (MCU) films. The goal is to explore the relationship between comic book sales and the success of MCU movies.
+
+## Project Goals
+
+The primary objectives of the project include:
+
+- Analyzing Marvel Comics sales trends over the years.
+- Investigating the box office performance of MCU films.
+- Exploring potential correlations between comic book sales and MCU film success.
+
+## ETL (Extract, Transform, Load)
+
+The ETL process involves:
+
+- Extracting data from ComicChron for Marvel Comics sales and Kaggle for MCU films box office.
+- Transforming and cleaning the data using Pandas in Python.
+- Creating new datasets and features to enhance analysis.
+
+## EDA (Exploratory Data Analysis)
+
+Exploratory Data Analysis includes:
+
+- Analyzing and visualizing trends, distributions, and relationships within the datasets.
+- Identifying key insights into the sales of Marvel Comics and MCU films.
+
+## Visualization using Tableau
+
+A visualization of the project has been created using Tableau. You can access it [here](https://public.tableau.com/views/MCU_17088239428790/Story1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Project Status
 
@@ -29,7 +60,7 @@ This project, named "Project-MCU," focuses on analyzing Marvel Comics' sales dat
 
 ## Demonstration of Functions and Applications
 
-A visualization of the project has been created using Tableau. You can access it [here](https://public.tableau.com/views/MCU_17088239428790/Story1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
+A demonstration of the functions and applications can be found in the project code.
 
 ## Project Access
 
@@ -51,7 +82,7 @@ The project leverages the following technologies:
 
 ## Project Developers
 
-- Leonardo Lessa
+- Leonardo
 
 
 ## License
@@ -79,3 +110,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
+
