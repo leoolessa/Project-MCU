@@ -2,10 +2,6 @@
 
 ![MCU Project](https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png)
 
-## Insignia
-
-(Project Insignia/Image)
-
 ## Index
 
 1. [Project Description](#project-description)
