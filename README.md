@@ -1,7 +1,5 @@
 # Project-MCU
 
-## Title and Cover Image
-
 ![MCU Project](https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png)
 
 ## Insignia
