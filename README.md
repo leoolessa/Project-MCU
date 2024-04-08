@@ -76,7 +76,7 @@ The project leverages the following technologies:
 
 ## Project Developers
 
-- Leonardo
+- Leonardo Lessa
 
 
 ## License
